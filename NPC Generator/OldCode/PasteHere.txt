@@ -1,0 +1,62 @@
+{{Species
+|image=[[File:ZabrakNEGAS.jpg]]
+|name=Zabrak
+|designation=[[Sentience/Legends|Sentient]]
+|class=[[Near-Human]]
+|subspecies=Several (distinguished by the number and pattern of horns)<ref name="Codex">{{TORcite|type=codex|Zabrak}}</ref>
+|races=
+|height=1.8 [[Imperial standard meter|meters]]
+|length=
+|wingspan=
+|mass=
+|skincolor=Pale to dark brown, red, orange and yellow
+|haircolor=*Black<ref name="SWTOR">''[[Star Wars: Knights of the Old Republic]]''</ref>
+*Brown<ref name="SWTOR">''[[Star Wars: The Old Republic]]''</ref>
+*Blonde<ref name="SWTOR" />
+*Red<ref name="SWTOR" />
+|feathers=
+|eyecolor=*Yellow<ref name="SWTOR" />
+*Green<ref name="SWTOR" />
+*Orange<ref name="SWTOR" />
+*Brown<ref name="SWTOR" />
+*Blue<ref name="SWTOR" />
+*Red
+*Purple
+|distinctions=Horns, facial [[Tattoo/Legends|tattoos]], two hearts<ref name="Codex" />
+|lifespan=80 Years<ref name="SWTOR" />
+|planet=[[Iridonia/Legends|Iridonia]]<ref name="Codex" />
+|habitat=
+|diet=[[Diet/Legends|Carnivorous]]
+|language=[[Zabraki/Legends|Zabraki]]
+[[Galactic Basic Standard|Basic]]
+|members={{Scroll_box|height=250px|content=*[[Aaph Koden]]
+*[[Acaadi]]
+*[[Aleas Rans'ery]]
+*[[Anniya]]
+*[[Bao-Dur]]<ref name="KOTOR2">''[[Star Wars: Knights of the Old Republic II: The Sith Lords]]''</ref>
+*[[Raxa Binn]]
+*[[Maris Brood]]
+*[[Duqua Dar]]
+*[[Kao Cen Darach]]
+*[[Feral/Legends|Feral]]
+*[[Gith]]<ref name="GCG">''[[Galactic Campaign Guide]]''</ref>
+*[[Pol Haus]]
+*[[Darth Hexid]]
+*[[Drell Kahmf]]
+*[[Agen Kolar/Legends|Agen Kolar]]
+*[[Jaylen Kos]]
+*[[Jorgellansel]]
+*[[Eeth Koth/Legends|Eeth Koth]]
+*[[Darth Maul/Legends|Darth Maul]]
+*[[Savage Opress/Legends|Savage Opress]]
+*[[Durgur Pyne]]
+*[[Wolf Sazen]]
+*[[Kadrian Sey]]
+*[[Sirak]]
+*[[Sugi (bounty hunter)/Legends|Sugi]]
+*[[Maa Kaap]]
+*[[Kass Tod]]
+*[[Tyzen Xebec]]
+*[[Zan Yant]]
+*[[Do Zonn]]
+*[[Darth Simi]]}}
