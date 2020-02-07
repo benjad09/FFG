@@ -31,7 +31,7 @@ class MainWindow:
 
 		#self.building.loadbuilding("test")
 
-		self.canvas = tk.Canvas(self.master,bg = "red")#,height=self.ysize*self.scale+2*self.offset, width=self.xsize*self.scale+2*self.offset, bg="white")
+		self.canvas = tk.Canvas(self.master,bg = "white")#,height=self.ysize*self.scale+2*self.offset, width=self.xsize*self.scale+2*self.offset, bg="white")
 		#self.canvas.place(relx=.25,rely=0)
 		self.canvas.place(relx=.2,rely=0,relwidth=.8,relheight = 1)
 
@@ -39,13 +39,34 @@ class MainWindow:
 
 
 
-		load = Image.open("storm.png")
-		load = load.rotate(90)
+		load = Image.open("./Assets/barfront.png")
 		render = ImageTk.PhotoImage(load)
-		img = Label(self.master, image=render)
+		img = Label(self.master,image = render)
 		img.image = render
-		img.place(x=0, y=0)
+
+
+		self.canvas.create_image(50,50,anchor=NW,image=render)
+		#self.canvas.create_image(10,50,anchor=NW,image=render)
+		# load2 = Image.open("./Assets/barfront.png")
+		# load2 = load2.rotate(90)
+		# render2 = ImageTk.PhotoImage(load2)
+		load = Image.open("./Assets/barfront.png")
+		
+		load = load.rotate(270)
+		render = ImageTk.PhotoImage(load)
+		img = Label(self.master,image = render)
+		img.image = render
+		
 		self.canvas.create_image(10,10,anchor=NW,image=render)
+
+
+		load = Image.open("./Assets/barleft.png")
+		render = ImageTk.PhotoImage(load)
+		img = Label(self.master,image = render)
+		img.image = render
+		
+		#self.canvas.create_image(90,50,anchor=NW,image=render)
+		self.canvas.create_image(10,50,anchor=NW,image=render)
 
 
 
