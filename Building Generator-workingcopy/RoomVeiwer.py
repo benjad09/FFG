@@ -3,6 +3,7 @@ import RoomBuilder as build
 from Tkinter import *
 import random
 from random import randint
+from PIL import Image, ImageTk
 import os
 global r
 
@@ -18,7 +19,7 @@ class MainWindow:
 		self.master.geometry("750x500") #You want the size of the app to be 750x500
 		
 		#self.canvas.place(relx = 0,rely = 0,relwidth = 1,relheight = 1)
-		self.assetsize = 30
+		self.assetsize = 40
 		self.offset = 10
 
 
@@ -38,6 +39,16 @@ class MainWindow:
 
 
 
+		load = Image.open("storm.png")
+		load = load.rotate(90)
+		render = ImageTk.PhotoImage(load)
+		img = Label(self.master, image=render)
+		img.image = render
+		img.place(x=0, y=0)
+		self.canvas.create_image(10,10,anchor=NW,image=render)
+
+
+
 
 
 
@@ -45,11 +56,11 @@ class MainWindow:
 		
 		self.canvas.delete("all")
 		send = [[],[]]
-		for i in range(0,20):
+		for i in range(0,15):
 			send[0].append('w')
 			send[1].append('w')
 		send2 = []
-		for i in range(0,20):
+		for i in range(0,15):
 			send2.append(['w','w'])
 		self.x = build.advancedroom(send2,send)
 		self.x.createspaces()
