@@ -20,7 +20,8 @@ def loadtraits():
 		return ["traits unavalible"]
 
 def getracelist():
-	return racelist
+	returnthis = racelist
+	return(returnthis)
 
 def loadRaces():
 	global races
@@ -111,7 +112,7 @@ def intpeople():
 
 # another = 1;
 
-
+ 
 
 # for x in range(0,1):
 # 	#species_index = randint(0,len(races))

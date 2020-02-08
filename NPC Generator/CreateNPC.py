@@ -8,8 +8,11 @@ import CreatePerson as people
 
 global Factions
 global racelist
+global racelist2
 global traits
 global factionlist
+global advlist
+global adv
 
 
 def loadfactons():
@@ -31,20 +34,87 @@ def loadfactons():
 		for k in range(1,len(lines)):
 			Factions[lines[0][i]][lines[k][0]] = int(lines[k][i+1])
 	#print(Factions)
+def loadadversaries():
+	global advlist
+	global adv
+	adv = {}
+	advlist = []
+	Dir = "./adversaries"
+	Files = os.listdir(Dir)
+	for i in Files:
+		oldjs = open(Dir+"/"+i, 'r').read()
+		advlist.append(i.split(".",1)[0])
+		adv[advlist[-1]]=(json.loads(oldjs))
+	Dir = "./faction"
+	Files = os.listdir(Dir)
+	for i in Files:
+		oldjs = open(Dir+"/"+i, 'r').read()
+		advlist.append(i.split(".",1)[0])
+		adv[advlist[-1]]=(json.loads(oldjs))
+	advlist.insert(0,"None")
+	adv["None"] = {}
+	adv["None"]["Agility"] = 0
+	adv["None"]["Abilities"] = ["None"]
+	adv["None"]["Soak"] = 2
+	adv["None"]["Level"] =  "Rival"
+	adv["None"]["Skills"] = ["None"]
+	adv["None"]["Int"] = 0
+	adv["None"]["Cun"] = 0
+	adv["None"]["Will"] = 0
+	adv["None"]["Brawn"] = 0
+	adv["None"]["Presence"] = 0
+	adv["None"]["Equipment"] = ["Personal"]
+	adv["None"]["Talents"] = ["None"]
+	adv["None"]["Defence"] = "0"
+	adv["None"]["Thresh"] = 5
+	adv["None"]["Adversary"]= "None"
 
-def createNPC(faction):
+
+
+
+def createGenaric(faction = 'None',race = "Random"):
 	racetotal = 0
-	for i in racelist:
-		racetotal += Factions[faction][i]
-	racethreshold = randint(0,racetotal)
-	racesum = 0;
-	raceindex = 0;
-	while(racesum<racethreshold):
-		racesum += Factions[faction][racelist[raceindex]]
-		raceindex+=1
-	randomrace = racelist[raceindex-1]
-	NPC = people.new(randomrace)
-	NPC["Faction"] = faction
+	if race == "Random":
+		for i in racelist:
+			racetotal += Factions[faction][i]
+		racethreshold = randint(0,racetotal)
+		racesum = 0;
+		raceindex = 0;
+		while(racesum<racethreshold):
+			racesum += Factions[faction][racelist[raceindex]]
+			raceindex+=1
+		randomrace = racelist[raceindex-1]
+		NPC = people.new(randomrace)
+		NPC["Faction"] = faction
+	else:
+		NPC = people.new(race)
+		NPC["Faction"] = faction
+	return NPC
+
+
+def createNPC(faction = 'None',race = 'Random',advers="None"):
+	Base = createGenaric(faction,race)
+	Base["Abilities"] = adv[advers]["Abilities"]
+	Base["Soak"] = adv[advers]["Soak"]
+	Base["Level"] = adv[advers]["Level"]
+	Base["Abilities"] = adv[advers]["Abilities"]
+	Base["Equipment"] = adv[advers]["Equipment"]
+	Base["Talents"] = adv[advers]["Talents"]
+	Base["Defence"] = adv[advers]["Defence"]
+	Base["Thresh"] = adv[advers]["Thresh"]
+	Base["Adversary"] = adv[advers]["Adversary"]
+	
+
+	Base["Agility"]=max(adv[advers]["Agility"],Base["Agility"])
+	Base["Cun"]=max(adv[advers]["Cun"],Base["Cun"])
+	Base["Int"]=max(adv[advers]["Int"],Base["Int"])
+	Base["Will"]=max(adv[advers]["Will"],Base["Will"])
+	Base["Brawn"]=max(adv[advers]["Brawn"],Base["Brawn"])
+	Base["Presence"]=max(adv[advers]["Presence"],Base["Presence"])
+
+
+
+	NPC = Base
 	return NPC
 
 def PrintNPC(Char):
@@ -68,31 +138,43 @@ def PrintNPC(Char):
 
 
 
-	
+def initNPC():
+	global racelist
+	people.intpeople()
+	racelist = people.getracelist()	
+	loadfactons()
+	loadadversaries()
+
+def getfactions():
+	return factionlist
+
+def getadv():
+	return advlist
+
+def getraces():
+	return racelist
 
 
-people.intpeople()
-
-racelist = people.getracelist()	
-loadfactons()
-print("choose faction")
-for i in factionlist:
-	print(i)
-pick = raw_input()
-another = 1
-while another:
-
-	PrintNPC(createNPC(pick))
 
 
-	print("new charecter y/s change faction c")
-	ans = raw_input()
-	if ans == "y":
-		another = 1
-	elif ans == "c":
-		print("choose faction")
-		for i in factionlist:
-			print(i)
-		pick = raw_input()
-	else:
-		another = 0
+# print("choose faction")
+# for i in factionlist:
+# 	print(i)
+# pick = raw_input()
+# another = 1
+# while another:
+
+# 	PrintNPC(createNPC(0,"None","Chiss"))
+
+
+# 	print("new charecter y/s change faction c")
+# 	ans = raw_input()
+# 	if ans == "y":
+# 		another = 1
+# 	elif ans == "c":
+# 		print("choose faction")
+# 		for i in factionlist:
+# 			print(i)
+# 		pick = raw_input()
+# 	else:
+# 		another = 0

@@ -1,0 +1,543 @@
+﻿Adversary,Level,Skills,Talents,Abilities,Equipment,Index
+"""Ironarm"" Stormtrooper Commander",Nemesis,Athletics 3; Discipline 3; Leadership 2; Melee 3; Ranged [Light] 2; Resilience 3; Vigilance 2,Adversary 1; Parry 4,Tactical Direction,Cybernetic Arms (Mod V and Mod VI); Extra Reload; Frag Grenade; Reinforced Vibrosword; Stormtrooper Armor; Utility Belt,HD:21
+"""Lookout""",Rival,Gunnery 2; Piloting [Planetary] 2; Perception 3,None,Droid; Scomp Link Piloting,None,GMK:9*
+"""Too Low"" Talo",Rival,Athletics 2; Cool 1; Deception 1; Leadership 1; Melee 2; Negotiation 2; Piloting [Planetary] 2; Ranged [Light] 2; Vigilance 2,Adversary 1,None,Blaster Pistol; Comlink (handheld); Padded Armor; Utility Belt; Vibroknife,BtR:29
+"""Zekra Fol""",Nemesis,Brawl 2; Charm 3; Coercion 3; Cool 3; Deception 3; Discipline 4; Outer Rim 2; Underworld 2; Negotiation 2; Perception 3; Ranged [Light] 2; Streetwise 2; Vigilance 3,Adversary 1; Nobody's Fool 2; Plausible Deniability 2; Smooth Talker 2,None,Datapad; Holdout Blaster; Personal Deflector Shield,JoY:62*
+2-1B Medical Droid,Rival,Discipline 1; Medicine 3; Perception 2,None,Droid,built-in diagnostic and surgical tools,RaGP:43
+3D-4K,Rival,Charm 2; Computers 2; Xenology 1; Perception 1,None,Droid,None,GMK:10*
+3PX-Series Protocol Droid,Rival,Charm 1; Education 3; Outer Rim 3; Xenology 3; Negotiation 2,None,Droid; Etiquette and Protocol,None,DA:54
+501-Z Police Droid,Rival,Coercion 2; Melee 2; Piloting [Planetary] 2; Ranged [Heavy] 3; Streetwise 3; Vigilance 3,Adversary 1; Nobody's Fool 1,Droid,Activv1 Riot Shield; Binders; Blaster Carbine; Built-in comlink; Stun Baton,SoR:139
+5YQ-Series Protol Droid,Rival,Charm 1; Education 1; Core Worlds 1; Lore 1; Outer Rim 1; Underworld 1; Warfare 1; Xenology 1,None,Droid; Etiquette and Protocol,None,DA:55
+A0-2,Nemesis,Athletics 2; Brawl 3; Cool 3; Melee 4; Perception 3; Ranged [Heavy] 3; Ranged [Light] 2; Skullduggery 2; Streetwise 2; Vigilance 4,Lethal Blows 3; Precise Aim 2; Targeted Blow,Droid,Blaster Rifle; Integrated Comlink; Integrated Vibroblade; Laminate Armor,LoNH:136*
+AC Law Enforcement Droid,Rival,Discipline 2; Coercion 2; Melee 2; Piloting [Planetary] 2; Streetwise 3; Vigilance 3,Nobody's Fool 1,Droid,Activv1 Riot Shield; Binders; Built-in comlink; Stun Baton,FH:49
+Accomplished Mechanic,Rival,Computers 2; Mechanics 2; Survival 1; Vigilance 1,Gearhead 1; Force Rating 1; Imbue Item,None,Emergency Repair Kit; Holdout Blaster; Tool Kit,F-CRB:411
+Adamite Tower Paladin,Nemesis,Discipline 2; Medicine 3; Melee 2; Lightsaber 2; Ranged [Heavy] 2; Vigilance 2,Adversary 1; Force Rating 2; Parry 3,Force Power Enhance; Force Power Heal/Harm,Adamite Signet Ring; Longbow; Quiver of Arrows; Reforged Star Armor; Sunfire Sword; Warhorse,NoP:36
+Advozse Mercenaries,Rival,Ranged [Light] 1; Vigilance 1,None,None,Blast Vest; Blaster Pistol; Comlink (handheld); Vibroknife,F-BGA:21; F-BGA:25
+"Aimee ""Flutterplume"" Kraeff",Nemesis,Athletics 3; Brawl 4; Cool 2; Discipline 2; Melee 3; Resilience 3; Streetwise 2; Survival 3; Vigilance 3,Adversary 2; Frenzied Attack 2,None,Colorful wrestling costume; Feathered mask; Heavy Clothing; Pair of vibroknucklers,MPQ:58*
+Aleena Wanderer,Minion,Charm; Coordination; Lore; Mechanics; Medicine; Survival,None,Silhouette 0,Robes; Traveling Pack,NoP:55
+Alliance Commander,Nemesis,Discipline 3; Warfare 3; Leadership 3; Ranged [Heavy] 2; Ranged [Light] 3; Perception 3; Vigilance 2,Adversary 2; Command 2; Field Commander,Improved Covering Fire,Blast Vest; Blaster Carbine; Light Blaster Pistol,A-CRB:412; IaRAD:14
+Alliance Infantry,Minion,Melee; Ranged [Heavy]; Vigilance,None,Covering Fire,Blast Vest; Blaster Rifle; Combat Knife,A-CRB:411; IaRAD:13
+Ambrae Environmental Security Guard,Minion,Melee; Perception; Piloting [Planetary]; Ranged [Light]; Vigilance,None,None,Blaster Pistol; Breath Masks and Respirators; Comlink (handheld); Padded Armor; Truncheon,MPQ:67
+Analysis Droid,Minion,Computers; Education,Technical Aptitude 2,Droid; Silhouette 0,Datapad,F-CRB:409
+Ancient Hutt Security Droid,Rival,Melee 2; Ranged [Heavy] 2; Vigilance 3,None,Droid; Huttese,Blaster Carbine; Vibrosword,LoNH:144
+Antiquated Battle Droid,Minion,Ranged [Heavy],None,Droid,Blaster Rifle,E-CRB:410
+Apprentice Hunter,Minion,Perception; Ranged [Light],None,None,Blaster Pistol; Heavy Clothing,E-CRB:399; SaVAD:5*
+Aqualish Thug,Minion,Brawl; Coercion; Melee; Ranged [Light],None,None,Blaster Pistol; Brass Knuckles,E-BGR:46; E-CRB:391
+Aqualish Thug,Minion,Brawl; Coercion; Ranged [Light],None,None,Blaster Pistol; Brass Knuckles,SoF:126
+Arak-Series Probe Droid,Rival,Computers 3; Perception 3; Ranged [Light] 1,None,Droid; Repulsorlift Locomotion; Sensors,Built-in blaster pistol; Built-in sensors; holocam; and comlink,BtR:71
+Arda I TIE Pilot,Minion,Gunnery; Piloting [Space],None,None,Blaster Pistol; Flight Suit,OaA:43
+Arda I Viper Probe Droid,Rival,Computers 3; Gunnery 2; Perception 3; Vigilance 3,None,Droid; Repulsorlift Locomotion; Self-destruct; Sensors,Built-in hyperspace transponder; Built-in laser canon,OaA:27
+Arend Shen,Nemesis,Cool 4; Charm 4; Coercion 2; Deception 3; Education 5; Underworld 4; Negotiation 5; Perception 2; Ranged [Light] 2; Skullduggery 2; Streetwise 4,Adversary 3; Nobody's Fool 2; Resolve 1; Smooth Talker 2,None,credit stick with 5000 credits; Disruptor Pistol; Heavy Clothing,JoY:90
+Aris Shen,Nemesis,Charm 3; Cool 2; Deception 3; Underworld 4; Negotiation 3; Perception 2; Ranged [Light] 3; Streetwise 4; Vigilance 1,Adversary 1; Quick Draw; Natural Charmer; Smooth Talker 2,Shadowport Savvy,"Heavy Clothing; Holdout Blaster; Merr-Sonn IR-5 ""Intimidator"" Blaster Pistol",JoY:89
+Armed Security Guard,Minion,Coercion; Melee; Perception; Ranged [Light],None,None,Comlink (handheld); Light Blaster Pistol; Padded Armor; Truncheon,F-CRB:430
+Arms Dealer,Rival,Negotiation 1; Ranged [Heavy] 2; Ranged [Light] 2; Vigilance 1,None,None,Heavy Blaster Pistol; Vibroknife,E-CRB:391; SaVAD:16
+Arrogant Heir,Rival,Charm 1; Coercion 2; Cool 1; Core Worlds 2; Education 2,None,None,Duelist Blaster Pistol,E-CRB:408
+Ashur Sungazer,Rival,Computers 2; Cool 1; Discipline 2; Knowledge 3; Perception 1; Vigilance 1,None,None,Breath Masks and Respirators; Datapad; Stylus,F-CRB:425
+Assassin Droid,Nemesis,Coercion 3; Computers 4; Gunnery 5; Mechanics 3; Melee 3; Ranged [Heavy] 5; Ranged [Light] 5; Piloting [Planetary] 3; Piloting [Space] 3; Vigilance 2,Adversary 2; Barrage 3; Point Blank 3,Droid,Light Repeating Blaster,A-CRB:427; E-CRB:410; SaVAD:18
+Astromech Droid,Rival,Astrogation 3; Computers 3; Cool 2; Mechanics 2; Piloting [Space] 2,None,Droid,Tool Kit,A-CRB:428; E-CRB:410; CotGAD:7
+Autoturret,Rival,Perception 2; Ranged [Light] 2; Vigilance 4,Adversary 2,Droid; Hoverer,Built-in repeating blaster,OaA:71
+B1 Series Battle Droid (Modified),Minion,Gunnery; Melee; Ranged [Heavy]; Ranged [Light],None,Droid,Integrated Comlink; On-board Processor; Worn-out blaster rifle,BtR:65
+Baktoid B1 Battle Droids,Minion,Ranged [Heavy],None,Droid,Blaster Rifle,GMK:9*
+Bandin Dobah,Nemesis,Coercion 4; Underworld 2; Melee 2; Negotiation 2; Piloting [Space] 3; Ranged [Light] 2; Skullduggery 2; Streetwise 2; Vigilance 2,Adversary 2; Quick Draw,None,Heavy Blaster Pistol; Heavy Clothing; Vibro-ax,E-CRB:434*
+Barabel Enforcer,Rival,Ranged [Heavy] 1; Melee 2; Perception 1; Survival 2; Vigilance 1,None,None,Blaster Carbine; Combat Knife,E-CRB:392
+Barabel Enforcer,Rival,Melee 2; Perception 1; Ranged [Light] 1; Survival 2; Vigilance 1,None,None,Heavy Blaster Pistol; Serrated Combat Knife,SoF:126
+Bardottan Palace Guard,Minion,Cool; Melee,None,None,Bardottan Electrolance,NoP:47
+Bargos's Gamorrean,Rival,Brawl 2; Melee 2,Knockdown,None,Crude Gamorrean vibro-ax,GMK:6*
+Baron Administrator Lando Calrissian,Nemesis,Charm 3; Cool 2; Deception 4; Discipline 2; Core Worlds 1; Underworld 2; Leadership 2; Negotiation 3; Perception 2; Ranged [Light] 2; Skullduggery 2; Stealth 2; Streetwise 2; Vigilance 1,Adversary 2; Kill with Kindness 1; Nobody's Fool 2; Plausible Deniability 2,Luck be a Lady,Dashing Cloak; Fine Clothing; Holdout Blaster; Wrist-mounted comlink,JoY:11
+Baron Kaldo,Nemesis,Charm 3; Coercion 4; Cool 3; Deception 3; Discipline 3; Underworld 3; Negotiation 3; Perception 4; Streetwise 4; Vigilance 2,Adversary 2; Plausible Deniability 2; Natural Charmer; Natural Negotiator,None,Comlink (handheld); Heavy Blaster Pistol; superior concealed armored clothing,SoF:47
+Barrows' Thug,Minion,Coordination; Melee; Perception,None,None,Makeshift Weapons,OaA:85
+BD10-Series Assay Support Droid,Rival,Charm 2; Outer Rim 3; Negotiation 2,None,Droid; Outland Etiquette and Protocol,None,DoH:54
+Besalisk Adventurer,Rival,Brawl 2; Ranged [Light] 2; Survival 2; Vigilance 2,None,Four-armed,Blaster Pistol; Brass Knuckles; Utility Belt,F-CRB:418
+Bespin Defense Force Pilot,Minion,Cool; Gunnery; Piloting [Planetary],None,None,Flight Suit,JoY:95
+Bhurra,Rival,Brawl 1; Coercion 1; Perception 1; Ranged [Light] 1; Vigilance 1,Adversary 1,Blubber,Blaster Pistol; Brass Knuckles; Comlink (handheld); Long Coat,JoY:24*
+Big Game Hunter,Nemesis,Cool 3; Xenology 2; Melee 3; Perception 3; Piloting [Planetary] 2; Ranged [Heavy] 4; Stealth 3; Survival 4,Adversary 2; Hunter's Quarry; Natural Hunter,Animal Combatant; Wilderness Valor,Armored Clothing; Extra Reload; Oversized Combat Knife; Scoped long-range blaster rifle; Utility Belt; Wilderness Survival Kit,F-CRB:401
+Bim Gizzo,Rival,Charm 2; Deception 3; Perception 3; Ranged [Light] 2; Skullduggery 3; Stealth 2; Streetwise 2,Adversary 1; Convincing Demeanor 2,None,Cybernetic Light Blaster,SoF:134
+Bith Musician,Minion,Charm; Cool; Perception,None,Keen Senses,Musical Instrument (Common),F-CRB:402
+BL0-Series Non-lethal Combat Droid,Rival,Brawl 3; Cool 2; Coordination 1; Ranged [Light] 1; Resilience 2,None,Droid,armored plating; Stun Grenade; Two Built-in Stun Whips,DoH:54
+Black Claw Saboteur,Minion,Brawl; Mechanics; Ranged [Light]; Stealth,None,Create Bacta,Frag Grenade,SoR:55
+Black Marketeer,Rival,Underworld 2; Negotiation 2; Ranged [Light] 1; Skullduggery 2; Streetwise 2; Vigilance 2,Black Market Contacts 2,None,Blaster Pistol,A-CRB:423; SaVAD:4
+Black Sun Vigo,Nemesis,Coercion 4; Cool 3; Melee 3; Negotiation 3; Perception 4; Ranged [Heavy] 3; Ranged [Light] 3; Streetwise 4; Survival 4; Vigilance 2,Adversary 3; Crippling Blow; Nobody's Fool 2,Leader,Force Pike; Heavy Blaster Pistol,E-CRB:406; SaVAD:19
+Blaise Zirkonn,Nemesis,Athletics 3; Brawl 2; Charm 2; Coercion 3; Cool 3; Discipline 4; Core Worlds 2; Education 2; Underworld 2; Leadership 3; Lightsaber 4; Lore 2; Outer Rim 2; Perception 3; Ranged [Light] 3; Streetwise 3; Vigilance 3,Adversary 3; Draw Closer; Drive Back; Force Rating 3; Lightsaber Mastery; Parry 5; Reflect 5,Dark Side Force User; Force Power Influence; Intimidating Presence,Comlink (handheld); Concealed Armored Robes; Customized Lightsaber; Datapad; Heavy Blaster Pistol,NoP:138
+Blaster Drone,Rival,Ranged [Light] 3,None,Hoverer,Training Blaster,NoP:133
+Bleshk Callor,Nemesis,Athletics 2; Brawl 2; Cool 3; Deception 4; Warfare 2; Underworld 4; Perception 3; Ranged [Light] 2; Skullduggery 4; Stealth 3; Streetwise 3; Survival 3; Vigilance 3,Adversary 2; Convincing Demeanor 2; Durable 2; Knockdown; Jump Up; Soft Spot,None,Armored Clothing; Blaster Pistol; Comlink (handheld); Datapad,SoR:142
+Blue-Rated Constable,Rival,Coercion 2; Cool 2; Discipline 2; Perception 2; Piloting [Space] 3; Ranged [Light] 3; Vigilance 3,Adversary 1; Skilled Jockey 1,Constabulary Honor 3,Armored Clothing; Blaster Pistol,SoR:43
+Boddah Venik Rin,Rival,Charm 2; Coercion 3; Cool 2; Deception 3; Discipline 2; Underworld 3; Perception 2; Negotiation 2; Streetwise 3; Vigilance 2,Kill with Kindness 1; Plausible Deniability 1,None,Fine Robes; Holdout Blaster; Narcotic Inhaler,LoNH:134
+Boffen Nibs,Rival,Charm 1; Deception 1; Education 2; Perception 2; Skullduggery 3; Stealth 2; Streetwise 1,None,None,Cred stick with 2;000 credits; Stolen gem (Eye of Corell); Utility Belt,SoF:135
+Bonda,Rival,Computers 1; Melee 2; Perception 1; Ranged [Light] 1,None,None,Heavy Work Clothing; Holdout Blaster; Knife,GMK:22
+BoSS Agent,Rival,Astrogation 1; Computers 1,Nobody's Fool 1,None,Comlink (handheld); Light Blaster Pistol; Secure datapad with uplink to BoSS database,A-CRB:416
+Bothan Spy,Rival,Computers 1; Deception 2; Streetwise 1; Skullduggery 2,None,None,Encoded Datapad; Light Blaster Pistol; Secure Comlink,A-CRB:412; IaRAD:16
+Bridge Guard,Minion,Melee; Ranged [Light],None,None,Heavy Battle Armor; Heavy Blaster Pistol; Mask; Vibrosword,MPQ:90
+Brionelle Army Cadet,Minion,Athletics; Coordination; Discipline; Education; Piloting [Planetary]; Ranged [Light]; Vigilance; Warfare,None,None,Academy uniform; Comlink (handheld); Datapad,SoR:18
+Brom,Rival,Brawl 3; Cool 2; Coercion 3; Ranged [Light] 2; Resilience 2,Adversary 1,None,Brass Knuckles; Heavy Blaster Pistol; Padded Armor; Stimpack,SoF:134
+Burr Naxis,Rival,Discipline 1; Melee 2; Perception 3; Ranged [Light] 3; Vigilance 2,None,None,Armored Guard Uniform; Heavy Blaster Pistol; Vibroknife,JoY:78
+Butterbug Remote,Minion,Mechanics; Melee,None,Droid; Silhouette 0,Micro-tools and drills,SM:53
+BX Commando Droid,Minion,Cool; Melee; Ranged [Heavy]; Ranged [Light]; Stealth,None,Droid,Blaster Carbine; Frag Grenade; Stun Grenade; Vibrosword,CotG:69
+Campus Security Guard,Minion,Brawl; Coercion; Melee; Perception,None,None,Comlink (handheld); Padded Armor; Truncheon,F-CRB:428
+Captain Balrekk,Nemesis,Charm 2; Coercion 3; Deception 2; Melee 2; Ranged [Heavy] 3; Streetwise 2; Vigilance 2,None,Balrekk's Butchery,Extra Reload; Frag Grenade; Heavy Blaster Rifle; High-temp Environment Armor; Utility Belt; Vibroknife,OaA:38
+Captain Bialar Selis,Nemesis,Coercion 2; Discipline 2; Leadership 3; Melee 2; Piloting [Planetary] 2; Ranged [Light] 4; Vigilance 3,Adversary 2; Good Cop 2,Captain of the Wing Guard,armored Wing Guard uniform; Comlink (handheld); magnacuffs; Relby-K23 blaster pistol; Stun Club,JoY:88
+Captain Gideon,Nemesis,Cool 2; Deception 3; Gunnery 2; Underworld 2; Melee 3; Negotiation 2; Piloting [Space] 3; Ranged [Light] 3; Stealth 2; Streetwise 2; Vigilance 2,Adversary 2; Nobody's Fool 2; Skilled Jockey 2,None,Breath Masks and Respirators; Heavy Blaster Pistol; Padded Armor; Utility Belt; Vibrosword,LoNH:123
+Captain Harl Bess,Rival,Astrogation 3; Computers 1; Cool 2; Mechanics 2; Piloting [Planetary] 3; Piloting [Space] 4,Skilled Jockey 2,None,Datapad with schematics; Holdout Blaster; Repair Tools,OaA:21
+Captain Hylo Sortuli,Rival,Cool 2; Warfare 3; Leadership 2; Negotiation 1; Piloting [Space] 2; Ranged [Light] 1,Adversary 1; Command 1,None,Datapad; Heavy Blaster Pistol,DitW:14
+Captain Jostero,Rival,Coercion 3; Deception 3; Gunnery 2; Leadership 2; Perception 2; Piloting [Space] 3; Ranged [Light] 3,None,Pirate Leader,Comlink (handheld); Heavy Blaster Pistol; Padded Armor,SoF:143
+Captain Rel Harsol,Nemesis,Charm 3; Coercion 3; Cool 4; Discipline 3; Lore 2; Leadership 5; Melee 3; Piloting [Space] 2; Ranged [Light] 3; Vigilance 3,Adversary 2; Inspiring Rhetoric [Improved]; Scathing Tirade [Improved],Animal Combatant; Wilderness Valor,Combat Knife; Comlink (handheld); Heavy Blaster Pistol; Padded Armor,BtR:63
+Captain Shorwarr,Rival,Athletics 1; Brawl 1; Ranged [Heavy] 2; Ranged [Light] 1; Perception 1; Survival 2; Vigilance 2,Expert Tracker 1; Natural Hunter; Hunter's Quarry,Wookie Rage,Bola; Bowcaster; Ryyk Blade,BtR:94
+Captain Shyndi Oglerk,Nemesis,Coercion 1; Cool 2; Deception 3; Education 2; Leadership 1; Melee 2; Negotiation 1; Piloting [Space] 1; Ranged [Light] 2; Skullduggery 2; Warfare 2,Adversary 1,None,Datapad; Heavy Blaster Pistol,DitW:8
+Carn Truuvik,Nemesis,Charm 3; Computers 2; Cool 3; Deception 3; Underworld 2; Negotiation 2; Perception 1; Ranged [Light] 3; Skullduggery 2; Streetwise 2,Adversary 1; Convincing Demeanor 2,Skilled Cheater,Armored Clothing; Filed Blaster Pistol,SoF:120
+Catrinna,Nemesis,Charm 3; Computers 1; Cool 2; Deception 2; Underworld 2; Melee 2; Negotiation 2; Perception 1; Ranged [Light] 2; Skullduggery 2; Streetwise 2; Vigilance 2,Adversary 1; Natural Charmer,None,Light Blaster Pistol; Vibroknife,SoF:117
+Cautious Smuggler,Rival,Charm 3; Cool 2; Deception 2; Ranged [Light] 2; Piloting [Space] 2; Skullduggery 2; Streetwise 2,Force Rating 1; Intuitive Evasion 1; Skilled Jockey 2,Force Power Influence,Blaster Pistol,F-CRB:411
+Cendiary Priest,Rival,Negotiation 36,Force Rating 3; Intuitive Improvements,Master Metalshaper,None,
+CG/KDY AT-ED,Rival,Coordination 2; Perception 3; Ranged [Heavy] 1; Vigilance 3,Outdoorsman 2,Droid,"Fabritech ""Surveyor"" Mapping and Surveying Suite; Forward-mounted blaster",EtU:55
+Chameleon Droid,Rival,Perception 2; Ranged [Heavy] 1; Stealth 2,Stalker 2,Droid,Blaster Carbine; Minelayer with 24 anti-personnel mines,NoP:106
+Chandrilan Agriculturalist,Rival,Athletics 1; Mechanics 2; Negotiation 2; Resilience 3; Survival 2,None,None,Stun Rifle,SoR:18
+Chandrilan Citizen,Minion,Core Worlds; Education; Negotiation; Perception,None,None,100 credits; Comlink (handheld); Datapad,SoR:18
+Chandrilan Governor,Nemesis,Charm 4; Cool 3; Perception 4; Core Worlds 4; Education 4; Leadership 3; Ranged [Light] 3; Streetwise 2; Vigilance 3,Inspiring Rhetoric [Improved]; Kill with Kindness 2,Leader,Light Blaster Pistol,SoR:19
+Chandrilan Navy Officer,Rival,Astrogation 2; Computers 2; Cool 2; Core Worlds 2; Leadership 3,Fire Control 1,None,Stun pistol,SoR:19
+Chara Tull,Rival,Charm 3; Cool 3; Gunnery 1; Piloting [Planetary] 2,Master Driver,None,Light Blaster Pistol,JoY:45*
+Chiss Mercenary,Nemesis,Coercion 2; Cool 1; Coordination 2; Discipline 3; Melee 3; Ranged [Heavy] 4; Resilience 3; Vigilance 4,Adversary 2; Lethal Blows 2; Quick Strike 2,Infravision,Blaster Rifle; Cortosis Sword; Heavy Battle Armor; Stimpack,F-CRB:418
+"Clay ""Pops"" Merra",Rival,Computers 4; Mechanics 5; Negotiation 2,None,None,Datapad; Hand Scanner; Tool Kit,SoF:51
+Clik,Rival,Astrogation 2; Brawl 1; Computers 2; Mechanics 4,Gearhead 1,None,Datapad with schematics; Holdout Blaster; Repair Tools,OaA:25
+Colonel (General) Romar Kek,Nemesis,Discipline 3; Gunnery 4; Warfare 3; Leadership 3; Perception 3; Ranged [Heavy] 2; Ranged [Light] 3; Vigilance 2,Adversary 2; Command 2; Coordinated Assault 2,Tactical Direction,Blast Vest; Blaster Carbine; Light Blaster Pistol,SoR:94
+Comm Operator,Rival,Charm 2; Coercion 1; Cool 1; Outer Rim 3,None,None,Comlink (handheld); Light Blaster Pistol,E-CRB:397; CotGAD:14
+Commander Danel Qurno,Nemesis,Coercion 3; Cool 2; Discipline 2; Underworld 2; Warfare 2; Leadership 2; Perception 3; Ranged [Light] 3; Streetwise 2; Vigilance 3,Know Somebody 2; Nobody's Fool 1,None,Blast Vest; Blaster Pistol,OaA:19
+Commander Freila,Nemesis,Astrogation 2; Cool 3; Discipline 2; Gunnery 3; Warfare 4; Leadership 2; Perception 3; Piloting [Space] 3; Ranged [Light] 2; Vigilance 2,Adversary 2; Natural Pilot,None,Blaster Pistol,SoR:43
+Commander Treaska,Rival,Coercion 1; Gunnery 2; Piloting [Planetary] 3,Natural Driver,None,Blaster Pistol; Comlink (handheld),OaA:93
+COMPNOR Agent,Rival,Coercion 3; Computers 2; Deception 3; Discipline 1; Core Worlds 2; Warfare 2,None,None,Disruptor Pistol; Military Comlink,A-CRB:416
+Con Artist,Rival,Charm 2; Cool 2; Deception 3; Perception 3; Skullduggery 2,Convincing Demeanor 1; Nobody's Fool 1,None,Comm Jammer; Disguise Kit; Holdout Blaster,F-CRB:404
+Consortium Starfighter Pilot,Rival,Astrogation 2; Computers 1; Discipline 2; Gunnery 2; Piloting [Space] 2; Ranged [Light] 1,Natural Pilot,None,Blaster Pistol; Crash Survival Kit; Flight suit and helmet,MPQ:82
+CoreSec Investigator,Rival,Charm 2; Coercion 3; Cool 2; Melee 2; Underworld 3; Perception 3; Ranged [Light] 2; Streetwise 3; Vigilance 2,Adversary 1,None,Badge; Blaster Pistol; Comlink (handheld); CorSec Mk. IV armored vest; Datapad; Truncheon,SoF:21
+Coresec Officer,Minion,Athletics; Brawl; Coercion; Melee; Perception; Ranged [Light]; Streetwise,None,None,CDEF Blaster Pistol; CorSec Mk. IV armored vest; Truncheon,SoF:20
+Corporate Representative,Rival,Charm 2; Cool 2; Deception 3; Warfare 2; Negotiation 2,Know Somebody 2,None,Datapad; Expense voucher; Holdout Blaster,A-CRB:429
+Corporate Sector Authority Security Captain,Rival,Coercion 1; Discipline 1; Leadership 1; Melee 2; Ranged [Heavy] 2; Ranged [Light] 1; Vigilance 1,Adversary 1,Riot Tactics,Riot Armor; Riot Gun; Truncheon,E-CRB:401; CotGAD:2
+Corporate Sector Authority Security Police,Minion,Coercion; Melee; Ranged [Heavy],None,None,Riot Armor; Riot Gun; Truncheon,E-CRB:401; CotGAD:1
+Corporate Sector Authority Viceprex,Nemesis,Charm 2; Coercion 4; Cool 2; Deception 3; Leadership 2; Negotiation 3; Education 3; Outer Rim 2,Adversary 1; Scathing Tirade [Improved]; Inspiring Rhetoric [Improved],None,Holdout Blaster; Personal Deflector Shield,E-CRB:402; CotGAD:3
+Corrupt Bureaucrat,Rival,Charm 2; Coercion 1; Cool 2; Deception 3; Negotiation 4,Plausible Deniability 1; Nobody's Fool 2,None,Light Blaster Pistol,E-CRB:408; SaVAD:12
+Corsec Boarding Officers,Rival,Cool 1; Discipline 2; Gunnery 1; Melee 2; Perception 3; Ranged [Light] 2; Resilience 2; Vigilance 2,Adversary 1,None,Corellian Arms CR-2 Heavy Blaster Pistol; Stun Baton,SoF:127
+CorSec Tactical Response Team Member,Nemesis,Athletics 3; Coercion 3; Cool 3; Discipline 2; Melee 2; Perception 3; Piloting [Planetary] 2; Piloting [Space] 2; Ranged [Heavy] 2; Ranged [Light] 2; Streetwise 3; Stealth 2; Vigilance 4,Adversary 2; Defensive Driving 1; Natural Pilot,None,Blaster Carbine; Heavy Blaster Pistol; Reinforced Flight Suit; Vibroknife,SoF:21
+Corte Voss,Nemesis,Astrogation 2; Brawl 2; Cool 3; Charm 3; Negotiation 2; Piloting [Space] 3; Ranged [Light] 3; Streetwise 2,Adversary 1; Quick Draw; Rapid Reaction 2; Soft Spot,None,Datapad; Heavy Blaster Pistol; Heavy Clothing,LoNH:131*
+Corte's Smuggler Crew,Minion,Athletics; Brawl; Cool; Gunnery; Ranged [Light],None,None,Blaster Pistol; Heavy Clothing,LoNH:131
+Cratala,Nemesis,Charm 2; Coercion 4; Cool 2; Discipline 3; Education 4; Xenology 4; Mechanics 3; Medicine 5; Negotiation 3; Perception 2; Ranged [Light] 2; Vigilance 2,Anatomy Lessons; Master Doctor; Surgeon 3,Cybernetic Microscopic Vision; Cybernetics Expert,Blaster Pistol; Datapad; Medpac,BtR:63
+"Crew Chief Jerion ""Jolt"" Terolt",Rival,Astrogation 1; Gunnery 2; Computers 3; Mechanics 4; Piloting [Planetary] 2; Piloting [Space] 2; Ranged [Light] 2,Gearhead 1,None,Comlink (handheld); Datapad; Light Blaster Pistol; Tool Kit,SoR:86
+CSA Intrusion Specialist,Rival,Computers 3; Cool 2; Skullduggery 2,Bypass Security 1; Force Rating 1,Computer Affinity,Holdout Blaster; Slicer Gear,F-CRB:411
+CT-4 Medical Droid,Rival,Computers 1; Discipline 1; Xenology 3; Medicine 3; Perception 2,Bacta Specialist 2; Surgeon 1,Droid,built-in diagnostic and surgical tools; Synthflesh Applicator,SoR:112
+Customs Inspector,Rival,Astrogation 1; Perception 3; Vigilance 2,None,None,Hand Scanner; Light Blaster Pistol,E-CRB:397; CotGAD:15
+Cyborg Administrator,Rival,Computers 3; Perception 1,None,Enhanced Senses,Comlink (handheld); Datapad with direct access port; Light Blaster Pistol,A-CRB:431
+Cybot Galactica PK-Series Worker Droids,Minion,Mechanics; Melee,None,Droid,Built-in Repair Tools; Mining Beam Drill,GMK:9*
+CZ-Series Communications/Business Droid,Rival,Education 3; Core Worlds 2; Negotiation 4; Perception 1,None,Droid; Etiquette and Protocol,Comlink (long range); Inbuilt Datapad,DA:55
+Dagoyan Master,Nemesis,Coercion 3; Cool 2; Discipline 3; Education 3; Leadership 2; Perception 2; Vigilance 3,Adversary 2; Force Rating 3,Force Power Bind; Force Power Sense,Robes; Walking Stick,NoP:47
+Dalan Oberos,Nemesis,Discipline 3; Melee 3; Ranged [Light] 3; Ranged [Heavy] 3; Vigilance 2,Adversary 2; Expert Tracker 1; Quick Draw,Praticed Resistance,Cortosis Gauntlets; Cortosis-laced Battle Armor; Custom Slugthrower Carbine; Jet Pack; Thermal Detonator,CotG:47
+Damaged Basilisk,Nemesis,Melee 2; Vigilance 3,Adversary 1; Crippling Blow; Knockdown,Droid; Silhouette 2,Basilisk Claws,F-CRB:438
+Dandy Gambler,Rival,Charm 2; Cool 3; Deception 2; Perception 3; Skullduggery 3; Streetwise 2,Force Rating 1; Second Chances 2,All the Luck in the Galaxy,Holdout Blaster,F-CRB:412
+Daro Blunt,Rival,Coercion 1; Cool 1; Ranged [Light] 3,None,Two-Weapon Combat,Heavy Clothing; Two modified quick draw blaster pistols,E-CRB:425*
+Deck Office Lt. Nela Arseli,Rival,Discipline 3; Warfare 3; Leadership 1; Ranged [Light] 2; Perception 2; Vigilance 2,None,Overwhelming Fire; Tactical Direction,Adverse Environment Gear; Comlink (handheld); Datapad; Light Blaster Pistol,SoR:73
+Deep Dark Scout Trooper,Minion,Athletics; Discipline; Melee; Ranged [Heavy]; Ranged [Light]; Vigilance,None,None,Extra Reload; Frag Grenade; Heavy Blaster Rifle; Light Blaster Pistol; Scout Trooper Armor; Utility Belt,BtR:70
+Defel Assassin,Nemesis,Brawl 3; Cool 2; Coordination 2; Melee 3; Ranged [Light] 2; Stealth 3; Vigilance 2,Adversary 3; Deadly Accuracy None; Lethal Blows 2,Light Sensitive; Shadowed,Blaster Pistol,E-CRB:392
+Detention Center Guard,Minion,Coercion; Discipline; Melee; Ranged [Light]; Vigilance,None,None,Blaster Pistol; Guard uniform and helmet; Stun Baton,RaGP:39
+Detention Center Officer,Rival,Discipline 3; Ranged [Light] 2; Vigilance 2,Adversary 1,Overwhelming Fire; Tactical Direction,Blaster Pistol; Code cylinder; Comlink (handheld); Imperial ID; Officer Uniform,RaGP:39
+Detention Center Staff,Minion,Computers; Mechanics; Perception,None,None,Datapad; Detention center uniform; Imperial ID,RaGP:39
+Devlikk,Minion,Coordination; Perception; Piloting [Planetary],None,Magnetic Sense,Goggles; Utility Kit; Various tools; Work tabard,OaA:85
+Diplomat,Rival,Charm 2; Cool 1; Deception 1; Negotiation 2,Kill with Kindness 1,None,Comlink (handheld); Datapad; Robes,A-CRB:412; CotGAD:17
+Doctor Lorren Morrick,Rival,Charm 3; Computers 2; Discipline 2; Education 3; Medicine 4,Bacta Specialist 2; Surgeon 2,None,Medpac; Synthskin,OaA:23
+Doellinist High Priest,Nemesis,Charm 2; Discipline 2; Education 3; Lore 4; Leadership 3; Negotiation 3,Command 2; Inspiring Rhetoric; Kill with Kindness 2; Nobody's Fool 2,Invoke Doellin,500 credits; Comlink (handheld); Datapad; Priestly robes; Tayan staff,SoR:27
+Domdees,Rival,Charm 3; Deception 3; Outer Rim 2; Underworld 3; Negotiation 3,Smooth Talker 1,Hoverer; Silhouette 0,Puffy Chef's Hat; Spatula; Utility Apron,LoNH:127
+Dorrian Vodani,Rival,Computers 1; Coordination 2; Piloting [Space] 3,Fine Tuning 2,None,Blaster Pistol; Flight Suit,OaA:60*
+Drall Constable,Minion,Melee; Perception; Ranged [Light]; Vigilance,None,None,Comlink (handheld); Drall Flashstick; Stun Grenade,SoF:136
+Drall Police Sergeant,Rival,Discipline 2; Leadership 2; Melee 3; Perception 3; Ranged [Light] 3; Vigilance 3,Adversary 1,None,Comlink (handheld); Drall Flashstick; Stimpack; Stun Grenade,SoF:136
+Drendan Binary Load Lifters,Rival,Athletics 2,None,Droid,Lifting Grapplers,GMK:10*
+Droideka,Rival,Gunnery 2; Perception 3; Resilience 3,None,Droid; Fire Sweep; Shield Projector,None,CotG:69*
+Duke Erron Irbian,Nemesis,Charm 2; Coercion 3; Cool 2; Deception 3; Discipline 2; Education 2; Core Worlds 3; Leadership 3; Ranged [Light] 2; Streetwise 1; Vigilance 2,Adversary 1; Plausible Deniability 2,Imperial Valor,Blaster Pistol,CotG:46
+DUM-Series Pit Droid,Minion,Computers; Mechanics; Perception,Fine Tuning 2,Droid; Networking; Silhouette 0,Built-in comms suite,EV:45
+Duros Ship Mechanic,Rival,Astrogation 1; Computers 1; Mechanics 3; Melee 1; Perception 2; Piloting [Space] 1,Fine Tuning 2; Gearhead 1,None,Emergency Repair Patch; Oversized Hydrospanner; Tool Kit,SoF:61
+DZ-70 Fugitive Tracker Droid,Rival,Ranged [Light] 2; Stealth 2; Survival 3; Vigilance 2,Adversary 1; Expert Tracker 2,Droid,Blaster Pistol; Ionization blaster,FH:49
+ED-V8-Series Envoy Droid,Rival,Education 2; Outer Rim 3; Negotiation 4; Perception 1,None,Droid; Non-humanoid Etiquette and Protocol,None,DoH:54
+Elaiza,Nemesis,Charm 2; Coercion 3; Cool 3; Deception 3; Discipline 2; Lightsaber 4; Melee 2; Perception 4; Stealth 2; Streetwise 3; Vigilance 3,Adversary 2; Ataru Technique; Sense Danger; Force Rating 3; Sense Emotions,Force Power Influence; Force Power Move,Elaiza's Lightsaber,JoY:82*
+Ellor Orgraal,Nemesis,Coercion 3; Computers 3; Warfare 3; Leadership 3; Ranged [Light] 1,Adversary 1,None,Blaster Pistol,OaA:82*
+Emperor's Hand,Nemesis,Athletics 2; Brawl 2; Charm 3; Cool 3; Deception 3; Core Worlds 3; Melee 3; Perception 2; Ranged [Heavy] 2; Ranged [Light] 3; Stealth 3; Vigilance 4,Adversary 3; Intense Focus; Stalker 2; Uncanny Senses 2; Force Rating 2,None,Disruptor Pistol; Frag Grenade; Vibrosword,E-CRB:402; IaRAD:11
+Eren Garai,Nemesis,Brawl 2; Charm 2; Coercion 2; Cool 2; Deception 2; Discipline 2; Education 1; Xenology 1; Perception 3; Ranged [Light] 2; Streetwise 2; Vigilance 2,Adversary 2,None,Breath Masks and Respirators; Cybernetic Brain Implant; Disruptor Pistol; Hand Scanner,F-CRB:428
+EV-8D3,Nemesis,Coercion 3; Education 3; Xenology 3; Perception 1,Scathing Tirade [Improved]; Nobody's Fool 2,Droid; Droid Leader,Blaster Rifle,GMK:8*
+Evocii,Minion,Coordination; Survival; Vigilance,None,None,Heavy Clothing; Scrap crossbow,LoNH:57
+Evun; Alva; and Theel,Rival,Athletics 2; Negotiation 2; Perception 3; Ranged [Heavy] 2; Ranged [Light] 1; Survival 3,None,None,Adverse Environment Gear; Gaffi Stick; Slugthrower Pistol; Slugthrower Rifle; Utility Belt; Various tools,MPQ:61*
+Expert Forger,Rival,Underworld 1; Perception 2; Streetwise 2; Vigilance 1,None,Critical Eye,Holdout Blaster; Percision Electronic Forging Tools,A-CRB:424
+Fallen Apprentice,Rival,Coercion 2; Discipline 3; Lightsaber 3; Resilience 2; Stealth 2,Adversary 1; Force Rating 1; Soft Spot,Dark Side Force User,Basic Lightsaber; Black Robes,F-BGR:47; F-CRB:412
+Fallen Master,Nemesis,Athletics 2; Coercion 3; Discipline 4; Lore 2; Leadership 2; Lightsaber 4; Resilience 3,Adversary 2; Force Rating 3; Hawk Bat Swoop; Reflect (Improved); Parry 5; Reflect 5,Dark Side Force User,Black Robes; Double-bladed mephite lightsaber,F-BGR:47; F-CRB:412
+FD-Series Extinguisher Droid,Minion,Athletics,None,Droid; Fire Resistant; Firefighter,Fire suppression equipment,SoF:102
+Fenn Sesslyn,Nemesis,Coercion 3; Cool 3; Discipline 3; Underworld 3; Warfare 3; Leadership 4; Perception 3; Ranged [Light] 3; Skullduggery 4; Streetwise 2; Vigilance 3,Adversary 2; Commanding Presence 3; Confidence 2; Field Commander [Improved]; Natural Leader; Scathing Tirade [Improved],None,Armored Imperial Uniform; Blaster Pistol,SoR:138
+Fereallis Pirate Crewmate,Rival,Brawl 1; Cool 2; Gunnery 1; Ranged [Light] 3; Vigilance 1,None,None,Breath Masks and Respirators; Heavy Blaster Pistol; Padded Armor; Shock Gloves; Vibroknife,LoNH:123
+First Mate Kog,Rival,Athletics 1; Coercion 2; Cool 3; Deception 2; Discipline 2; Warfare 3; Leadership 1; Piloting [Space] 2; Ranged [Light] 2; Skullduggery 3,Adversary 1,None,Datapad; Heavy Blaster Pistol,DitW:8
+Fleet Officer,Rival,Astrogation 2; Computers 2; Discipline 3; Gunnery 2; Piloting [Space] 2; Ranged [Light] 1,None,None,Blaster Pistol; Comlink (handheld); Uniform,MPQ:84
+Fondo; Tyss; ans Plaado,Minion,Brawl; Melee; Ranged [Light]; Vigilance,Quick Strike 1,None,Blaster Pistol; Combat Knife; Heavy Clothing,LoNH:136*
+Forger,Rival,Computers 1; Underworld 2; Perception 2; Skullduggery 2; Vigilance 1,None,None,Holdout Blaster,E-CRB:393
+Forsaken Jedi,Nemesis,Coercion 2; Cool 2; Deception 3; Lore 4; Lightsaber 4; Melee 2; Perception 4; Piloting [Space] 2; Streetwise 3; Vigilance 2,Adversary 2; Force Rating 3; Sense Danger; Sense Emotions; Uncanny Senses 2,None,Lightsaber,E-CRB:412
+Frangawl Cultist,Rival,Coercion 2; Melee 2; Perception 1; Vigilance 2,None,None,None,NoP:47
+FX-769,Rival,Discipline 1; Medicine 3; Melee 3; Perception 2,None,None,None,GMK:8*
+G-100 Remote Banking Droid,Nemesis,Discipline 2,Nobody's Fool 3,Droid,Built-in network uplink,JoY:69
+Gaff Kilvaari,Nemesis,Astrogation 1; Leadership 3; Mechanics 4; Perception 3; Piloting [Space] 2; Ranged [Heavy] 2; Ranged [Light] 2; Skullduggery 3; Stealth 3; Vigilance 3,Adversary 1; Master Grenadier; Powerful Blast 2; Selective Detonation 1; Skilled Jockey 1; Time to Go,None,Blaster Carbine; Comlink (handheld); Demolitions kit; Frag Grenade; Padded Armor,SoR:137
+Gamorrean Thug,Rival,Brawl 3; Melee 3,Knockdown,None,Crude Gamorrean vibro-ax,E-CRB:413
+Gand Findsman,Rival,Athletics 2; Coordination 2; Melee 2; Perception 3; Ranged [Heavy] 2; Survival 3; Vigilance 2,Adversary 1; Expert Tracker 2,Ammonia Breather,Scoped long-range blaster rifle; Vibroknife,F-CRB:403
+Gank Hunter,Rival,Athletics 1; Coercion 2; Cool 1; Melee 1; Ranged [Heavy] 3; Stealth 1; Vigilance 2,Rapid Reaction 1,Cybernetic communications,Heavy Battle Armor; Heavy Blaster Rifle; Vibroknife,LoNH:57
+Gantel Dro,Rival,Discipline 1; Melee 2; Perception 3; Ranged [Light] 3; Vigilance 2; Skullduggery 2; Stealth 3,None,Light Sensitive; Shadowed,Armored Guard Uniform; Heavy Blaster Pistol; Protective goggles with built-in infrared vision; Vibroknife,JoY:78
+Gareth Agamar,Nemesis,Cool 3; Gunnery 3; Leadership 3; Perception 3; Piloting [Space] 4,Adversary 2; Command 2; Defensive Driving 2; Form on Me; Master Pilot; Quick Strike 2; Skilled Jockey 2,None,Flight Suit; Light Blaster Pistol; Sensory Augmentation Package,SoR:126
+Garulo,Rival,Cool 3; Gunnery 3; Underworld 3; Streetwise 2,Natural Driver,Additional Limbs,Datapad,JoY:46*
+Gel Marcolf,Nemesis,Coercion 2; Discipline 3; Leadership 1; Melee 3; Perception 2; Ranged [Light] 2,Adversary 1; Force Rating 2; Parry 3,Dark Side Force User; Force Power Battle Meditation,Armored Robes; Blaster Pistol; Comlink (handheld); Cortosis Sword; Kyber crystal amulet; Stun Grenade,CotG:38
+General Elora Silssusio,Nemesis,Deception 3; Discipline 4; Gunnery 1; Warfare 2; Leadership 3; Negotiation 4; Ranged [Light] 3; Perception 3; Streetwise 4; Vigilance 2,Adversary 2; Command 2; Field Commander [Improved],None,Holdout Blaster; Light Blaster Pistol,SoR:81
+General Ran Niall,Nemesis,Coercion 2; Cool 3; Discipline 3; Gunnery 3; Warfare 4; Leadership 3; Perception 3; Ranged [Heavy] 2; Vigilance 3,Adversary 2; Inspiring Rhetoric,Alliance Leader,Heavy Blaster Pistol; Heavy Trench Coat,OaA:19
+Generic Remote,Minion,Perception,None,Droid; Silhouette 0,None,SM:53
+Gerk,Rival,Brawl 3; Coercion 3; Ranged [Light] 3; Resilience 3; Vigilance 2,None,None,Armored Clothing; Brass Knuckles; Breath Masks and Respirators; Heavy Blaster Pistol,MPQ:62*
+Gerrol Hunn,Rival,Charm 4; Cool 2; Piloting [Planetary] 3,Brilliant Evasion,None,Light Blaster Pistol,JoY:45*
+Glare Peak Security Personnel,Minion,Coercion; Discipline; Ranged [Light]; Vigilance,Intimidating 1,None,Glare Peak guard badge; Glare Peak guard uniform; Light Blaster Pistol,RaGP:22
+Godon Netakka,Rival,Athletics 1; Brawl 1; Perception 1; Piloting [Space] 1; Ranged [Light] 2; Streetwise 1; Vigilance 1,None,None,Disruptor Pistol; Reinforced Gauntlets,E-CRB:436*
+Gormo Vosadii Grasso,Nemesis,Charm 2; Coercion 3; Cool 4; Deception 2; Discipline 4; Outer Rim 3; Underworld 3; Negotiation 4; Resilience 3,Resolve 2,Awkward; Ponderous,Comlink (handheld); Datapad,SoF:51
+Gorn Vorrox,Rival,Deception 2; Negotiation 3; Perception 2; Ranged [Light] 2,None,None,Armored Clothing; Scattergun Blaster,SoF:124
+Government Bureaucrat,Rival,Coercion 2; Computers 1; Discipline 2; Core Worlds 2; Education 2; Negotiation 3,Nobody's Fool 2,None,Datapad of Imperial regulations,F-CRB:406
+Government Security Droid,Rival,Ranged [Light] 3; Vigilance 3,None,Droid,Built-in blaster pistol; Integrated Armor Plating,JoY:41
+Graayl Nor,Nemesis,Deception 3; Underworld 2; Perception 2; Piloting [Space] 2; Ranged [Light] 3; Skullduggery 2; Streetwise 2,Adversary 1,None,Brass Knuckles; Heavy Blaster Pistol; Padded Armor,LoNH:140
+Graayl's Thugs,Rival,Cool 1; Perception 2; Ranged [Light] 2; Survival 2; Vigilance 1,Quick Draw,None,Blaster Pistol; Padded Armor,LoNH:140
+Graf Lind,Rival,Athletics 1; Brawl 2; Charm 3; Deception 3; Underworld 2; Melee 3; Ranged [Light] 2; Streetwise 3,Natural Brawler; Quick Draw,None,Heavy Clothing; Holdout Blaster; Prosthetic Replacement (Limb); Vibrorapier,MPQ:21*
+Grenzo,Rival,Brawl 1; Coercion 1; Coordination 1; Deception 1; Perception 1; Piloting [Space] 1; Ranged [Heavy] 1; Ranged [Light] 2; Stealth 1; Streetwise 1; Survival 1; Vigilance 2,Lethal Blows 2,None,Heavy Blaster Pistol; Laminate Armor,SoF:120
+Grinder,Rival,Computers 1; Mechanics 4; Melee 2; Piloting [Planetary] 3; Streetwise 2; Vigilance 2,None,None,Disgusting Racing Hides; Emergency Repair Patch; Holdout Blaster; Tool Kit; Vibroknife,SoF:131
+Grizzled Trader,Rival,Deception 2; Knowledge 1; Negotiation 2; Streetwise 1,Black Market Contacts 1; Force Rating 1,Force-Sensitive Negotiation,Blaster Pistol,F-BGR:46
+Guardian Police Droid,Rival,Athletics 2; Melee 1; Perception 3; Piloting [Planetary] 2; Ranged [Light] 2; Streetwise 1; Vigilance 2,Nobody's Fool 1,Droid,Baton; SS-410 Blaster Pistol,EV:46
+Guilded Bounty Hunter,Rival,Cool 2; Melee 1; Ranged [Light] 2; Perception 2; Stealth 1; Streetwise 2; Survival 2,Expert Tracker 1; Quick Draw,None,Armored Clothing; Bola; Disruptor Pistol; Jet Pack; Stun Grenade; Utility Belt,A-CRB:424; F-BGR:46; F-CRB:404
+Gustip,Rival,Cool 2; Core Worlds 3; Education 3; Underworld 3; Negotiation 2; Perception 1; Streetwise 2,Stroke of Genius,None,Aurodium Cane; Encrypted Datapad; Holdout Blaster; superior concealed armored clothing,SoF:48; SoF:140*
+Gut-Guro,Minion,None,None,None,Padded Armor; Vibroknife,E-CRB:425*
+GV/3-series Guardian Droid,Rival,Brawl 3; Perception 3; Ranged [Light] 2; Vigilance 2,None,Droid; Loyalty Imprint; Olfactory Sensor Suite,Retractable Blade Incisors; Retractable Light Blaster,KtP:49
+Gyrowheel 1.42.08-Series Recycling Droid,Minion,Athletics; Coordination,None,Droid,Cleaning devices; Grabber claws,FH:50
+Halari Takan,Rival,Charm 2; Coercion 3; Deception 2; Core Worlds 2; Underworld 2; Xenology 2; Leadership 3; Negotiation 3; Ranged [Light] 2; Streetwise 3,Adversary 1; Nobody's Fool 3; Plausible Deniability 2; Scathing Tirade,Amphibious; Ink Spray,Armored Clothing; Comlink (handheld); Holdout Blaster,SoR:133
+Halina Patel,Nemesis,Computers 4; Cool 3; Deception 3; Education 2; Warfare 2; Underworld 3; Perception 3; Ranged [Light] 2; Skullduggery 3; Stealth 3; Vigilance 3,Adversary 2; Bypass Security 2; Codebreaker 3; Defensive Slicing 2; Technical Aptitude 3; Natural Programmer,None,Armored Clothing; BioTech borg construct Ax8; Holdout Blaster,SoR:142
+Haril Zense,Rival,Athletics 3; Ranged [Light] 1; Skullduggery 3; Survival 2,Master of Shadows,None,Blast Vest; Blaster Pistol,OaA:79*
+Hired Thug,Rival,Athletics 1; Coercion 2; Melee 2; Ranged [Light] 1; Survival 1,None,None,Beast-Hide Warrior's Armor; Frag Grenade; Vibro-ax,A-CRB:424; SaVAD:2
+Hunters,Rival,Ranged [Heavy] 1,None,None,Heavy Fur Clothes; Slugthrower Rifle,F-BGA:14
+Hutt Crime Lord,Nemesis,Athletics 1; Charm 2; Coercion 4; Cool 5; Deception 5; Discipline 5; Outer Rim 3; Underworld 3; Leadership 1; Melee 2; Negotiation 5; Ranged [Light] 2; Resilience 8,Convincing Demeanor 2; Durable 3; Nobody's Fool 3; Resolve 2,Awkward; Ponderous,Large-bore blaster pistol,A-CRB:424; E-BGR:46; E-CRB:406; SaVAD:20
+Hutt Majordomo,Rival,Charm 2; Coercion 3; Cool 2; Deception 3; Discipline 2; Underworld 3; Leadership 2; Perception 2; Negotiation 2; Streetwise 3; Vigilance 2,Intimidating 2; Nobody's Fool 1; Plausible Deniability 1,None,Fine Clothing,LoNH:45
+Hutt Slave Dealer,Nemesis,Charm 2; Coercion 3; Cool 4; Deception 4; Outer Rim 2; Underworld 4; Melee 3; Negotiation 5; Ranged [Light] 3; Resilience 8; Streetwise 5,Durable 3; Intimidating 3,Awkward; Ponderous,None,F-CRB:405
+Huttlet,Minion,Brawl; Resilience,Durable 1,Awkward; Stinky,None,LoNH:46
+IA Security Agent,Rival,Brawl 2; Discipline 2; Perception 2; Ranged [Light] 3; Survival 3; Vigilance 2,Adversary 1,None,Blaster Pistol; Comlink (handheld); Heavy Clothing; Shock Gloves; Stimpack,SoF:133
+IG-100 Magnaguard,Nemesis,Athletics 3; Brawl 3; Coordination 4; Melee 3; Perception 3; Vigilance 3,Adversary 1; Parry 4; Pin,Droid,Built-in Armor Plating; Electrostaff,F-CRB:409
+Illo Vandin,Nemesis,Brawl 2; Charm 4; Cool 4; Deception 4; Underworld 4; Negotiation 3; Ranged [Light] 2; Streetwise 4,Adversary 1; Nobody's Fool 2,None,Comlink (handheld); Fine Clothing; Heavy Blaster Pistol,MPQ:52*
+Imperial Advisor,Nemesis,Charm 4; Coercion 4; Deception 4; Core Worlds 3; Education 2; Negotiation 3; Perception 4; Skullduggery 3; Vigilance 3,Natural Charmer; Nobody's Fool 2; Plausible Deniability 2,None,Extensive credentials; Lavishly adorned robes; Sundry Personal Staff,E-CRB:416; IaRAD:9
+Imperial Army Officer,Rival,Discipline 3; Knowledge 2; Ranged [Light] 2; Vigilance 2,Adversary 1,Overwhelming Fire; Tactical Direction,Blaster Pistol; Comlink (long range); Officer Uniform,A-BGR:45; A-CRB:419; IaRAD:8
+Imperial Army Trooper,Minion,Discipline; Ranged [Heavy]; Ranged [Light],None,None,Blaster Rifle; Frag Grenade; Trooper uniform and helmet,A-BGR:45; A-CRB:418; IaRAD:7
+Imperial Assassin,Nemesis,Athletics 2; Cool 3; Coordination 3; Discipline 3; Melee 4; Perception 4; Piloting [Space] 2; Ranged [Heavy] 4; Stealth 4; Vigilance 4,Adversary 2; Parry 3; Indistinguishable 2,Neurotoxin Doses,Combat Vibroblade; Disruptor Rifle,F-CRB:406
+Imperial Destab Agent,Rival,Deception 3; Discipline 3; Coercion 3; Core Worlds 2; Outer Rim 2,Scathing Tirade [Improved],Destabilizing Influence,Heavy Clothing; Holdout Blaster,A-CRB:417
+Imperial Dungeoneer,Minion,Coercion; Melee; Ranged [Heavy]; Vigilance,None,None,Binders; Comlink (handheld); Padded Armor; Riot Gun; Truncheon,F-CRB:407
+Imperial Gunnery Corps,Minion,Gunnery,None,Gun Crew,Heavy Repeating Blaster; Holdout Blaster; Trooper uniform and helmet,A-CRB:418
+Imperial Intelligence Agent,Rival,Brawl 2; Charm 2; Coercion 2; Deception 2; Ranged [Light] 2; Streetwise 2; Vigilance 2,Adversary 1,None,Hand Scanner; Light Blaster Pistol,E-CRB:402; IaRAD:10
+Imperial Moff,Nemesis,Charm 3; Coercion 4; Cool 3; Deception 4; Discipline 3; Core Worlds 4; Leadership 4; Ranged [Light] 2; Streetwise 2; Vigilance 2,Adversary 1; Plausible Deniability 4; Inspiring Rhetoric [Supreme],Imperial Valor,Blaster Pistol,A-BGR:46*; A-CRB:417; E-CRB:403; IaRAD:12
+Imperial Naval Officer,Rival,Discipline 3; Ranged [Light] 2; Vigilance 2,Adversary 1,Tactical Direction,Blaster Pistol; Heavy Clothing,E-BGR:45; E-CRB:403
+Imperial Naval Trooper,Minion,Perception; Ranged [Light],None,None,Blast vest and Helmet; Blaster Pistol,A-CRB:419; A-CRB:440*; E-CRB:403
+Imperial Navy Pilot,Rival,Gunnery 2; Piloting [Space] 2; Vigilance 1,Full Throttle,None,Flight Suit,BtR:78
+Imperial Royal Guard,Nemesis,Athletics 2; Discipline 3; Melee 4; Perception 3; Ranged [Light] 3; Vigilance 4,Adversary 2; Heightened Awareness; Parry 4,None,Cortosis-plated force pike; Heavy Battle Armor; Heavy Blaster Pistol,F-CRB:407
+Imperial Sandtrooper Sergeant,Rival,Athletics 2; Discipline 2; Leadership 3; Melee 2; Ranged [Heavy] 2; Ranged [Light] 2; Resilience 2; Vigilance 2,Adversary 1,Tactical Direction,Extra Reload; Frag Grenade; Heavy Blaster Rifle; Stormtrooper Armor; Utility Belt; Vibroknife,OaA:40
+Imperial Security Droid,Rival,Perception 2; Ranged [Light] 2; Vigilance 2,None,Droid; Hoverer,Built-in auto-blaster,RaGP:21
+Imperial Stormtrooper,Minion,Athletics; Discipline; Melee; Ranged [Heavy],None,None,Blaster Rifle; Extra Reload; Frag Grenade; Stormtrooper Armor; Utility Belt; Vibroknife,RaGP:39; A-CRB:420; OaA:88; OaA:92; E-BGA:22*; E-CRB:404; F-BGR:45; F-CRB:407; IaRAD:1
+"Imperial Stormtrooper ""Cavetroopers""",Minion,Athletics; Discipline; Melee; Ranged [Heavy]; Vigilance,None,None,Blaster Carbine; Low-light vision gear; Oversized Vibroknife; Scout Trooper Armor,HD:11
+Imperial Stormtrooper Sergeant,Rival,Athletics 2; Discipline 2; Leadership 3; Melee 2; Ranged [Heavy] 2; Ranged [Light] 2; Resilience 2; Vigilance 2,Adversary 1,Tactical Direction,Extra Reload; Frag Grenade; Heavy Blaster Rifle; Stormtrooper Armor; Utility Belt; Vibroknife,A-BGR:46; A-CRB:420; E-BGR:45; E-CRB:404; F-BGR:45; F-CRB:408; IaRAD:2
+Imperial Test Pilot,Rival,Cool 2; Gunnery 2; Perception 2; Piloting [Space] 2,Adversary 1; Natural Pilot; Skilled Jockey 1,None,Flight Suit; Light Blaster Pistol; Sensory Augmentation Package,SoR:127
+Imperial Vehicle Corps,Rival,Gunnery 2; Piloting [Planetary] 2,None,None,Blaster Carbine; Trooper uniform and helmet,OaA:34
+Imperial Vehicle Corps,Rival,Gunnery 2; Piloting [Planetary] 2,None,None,Blaster Carbine; Trooper uniform and helmet,A-CRB:419
+Incom Engineer,Rival,Astrogation 1; Computers 1; Mechanics 2,Gearhead 1,None,Datapad with schematics; Holdout Blaster; Repair Tools,A-CRB:413
+Infochant,Rival,Deception 2; Knowledge 2; Perception 2; Vigilance 1,None,None,Comlink (handheld); Datapad; Holdout Blaster,A-CRB:425; E-CRB:393; SaVAD:17
+Intelligence Agent,Nemesis,Charm 2; Coercion 2; Deception 2; Ranged [Light] 2; Melee 2; Streetwise 2; Vigilance 2,None,None,Encrypted Datapad; Light Blaster Pistol; Secure Comlink,A-CRB:419
+Interrogation Droid,Rival,Coercion 4; Medicine 3; Perception 2; Ranged [Light] 3,None,Droid; Hoverer; Silhouette 0,Built-in Acid Jet; Built-in Interrogation Drug Syringe; Built-in Sonic Torture Device,F-CRB:410
+ISB (Imperial Security Bureau) Agent,Rival,Coercion 1; Deception 1; Discipline 1; Melee 1; Ranged [Light] 1; Streetwise 1; Vigilance 1,None,None,Comlink (handheld); TT24 Holdout Blaster,BtR:26
+ISB Agent Ferlan,Rival,Coercion 1; Deception 1; Discipline 1; Melee 1; Ranged [Light] 1; Vigilance 1,None,None,Blaster Pistol; Comlink (handheld); ISB ID; ISB uniform,RaGP:29
+ISB Supervisor Cal Alsen,Rival,Charm 1; Coercion 2; Deception 2; Ranged [Light] 2; Streetwise 1; Vigilance 2,None,None,Comlink (handheld); Hand Scanner; Heavy Trench Coat; TT24 Holdout Blaster,BtR:26
+Isshtharr,Rival,Athletics 2; Brawl 2; Mechanics 2; Piloting [Space] 3; Ranged [Heavy] 3; Ranged [Light] 2,None,None,Blaster Rifle; Hide armor,OaA:63*
+IT-3PO,Rival,Charm 2; Deception 1; Education 3; Xenology 3; Negotiation 2; Perception 1,Convincing Demeanor 2,Droid; Etiquette and Protocol,None,BtR:33
+IT-O Interrogation Droid,Rival,Coercion 3; Cool 2; Discipline 2; Medicine 3; Melee 2; Perception 2,None,Droid,Hypodermic Injectors; Interrogation Tools; Laser scalpel,A-CRB:444
+Ithorian Storyteller,Rival,Charm 3; Cool 1; Lore 3,None,None,Holdout Blaster,E-CRB:413
+J-57 Cam Droid,Minion,Perception; Vigilance,None,Droid; Flyer,Holocam,SoF:102
+Jalla,Rival,Charm 2; Coordination 1; Deception 1; Education 2; Perception 1; Ranged [Light] 1; Skullduggery 2; Stealth 2; Streetwise 2,Nobody's Fool 1,None,Holdout Blaster,SoF:120
+Jayk; Rafe; and Tojo,Rival,Athletics 2; Discipline 2; Melee 2; Ranged [Heavy] 2; Survival 2; Vigilance 3,Adversary 1; Point Blank 1,Near-Sighted; Poor Memory; Teamwork; Tremor,Blaster Rifle; Utility Belt; Vibroknife; Worn Clone Trooper Armor,MPQ:30*
+JC Series Pilot Droid,Rival,Cool 2; Piloting [Planetary] 2; Piloting [Space] 2; Ranged [Light] 1,Full Throttle,Droid,Light pop-up blaster,EtU:56
+Jedi Temple Guardians,Nemesis,Discipline 2; Medicine 2; Melee 2; Lightsaber 2; Perception 2; Vigilance 2,Adversary 1; Force Rating 4; Parry 4; Reflect 4,Force Power Bind,Jedi Temple Guard Armor; Keys; Temple Guard Lightsaber Pike,NoP:72
+Jedi-in-hiding,Nemesis,Athletics 1; Charm 2; Cool 2; Coordination 1; Deception 2; Discipline 4; Lore 3; Lightsaber 4; Perception 4; Piloting [Space] 2; Resilience 2; Vigilance 2,Adversary 2; Force Rating 3; Uncanny Senses 1; Uncanny Reactions 2,Force Power Enhance; Force Power Forsee; Force Power Move,Jedi Robes; Lightsaber,A-CRB:432
+Jerid Sykes,Nemesis,Astrogation 3; Coercion 2; Cool 3; Discipline 3; Gunnery 3; Leadership 3; Piloting [Space] 3; Ranged [Light] 2; Survival 2,Intimidating 2; Natural Pilot,None,Crash Survival Kit; Disruptor Pistol; Officer's Uniform,MPQ:79*
+Jostero Pirate,Minion,Gunnery; Piloting [Space]; Ranged [Light],None,None,Armored Flight Suit; Heavy Blaster Pistol,SoF:144
+Journeyman Bounty Hunter,Rival,Brawl 1; Coercion 1; Coordination 1; Ranged [Heavy] 1; Ranged [Light] 1; Survival 2; Vigilance 1,Lethal Blows 1; Adversary 1,None,Disruptor Rifle; Heavy Blaster Pistol; Laminate Armor,A-BGR:46; E-BGR:46; E-CRB:400*; SaVAD:6
+JR-12,Rival,Cool 3; Discipline 3; Mechanics 2; Negotiation 2; Perception 3; Ranged [Heavy] 2; Vigilance 3,Natural Hunter,Droid,Blaster Carbine; Utility Belt,MPQ:50*
+Jyd Renyr,Rival,Charm 2; Coercion 3; Deception 2; Discipline 2; Leadership 1; Negotiation 2; Streetwise 2,None,None,Comlink (handheld); Datapad; Fine suit,MPQ:56*
+K-9 Series Hunting Droid,Rival,Brawl 3; Perception 3; Stealth 3; Survival 3,Hunter 2,Droid,"Fabritech ""Hound"" Sensor Suite; Teeth and claws",EtU:54
+K4 Security Droid,Rival,Melee 2; Ranged [Light] 3; Vigilance 2,None,Droid,armored plating; Built-in blaster pistol; Security Staff,JoY:90
+K4-76A,Rival,Computers 3; Gunnery 3; Vigilance 2,True Aim 1,Droid,Built-in blaster pistol,JoY:47*
+Kaltho the Hutt,Nemesis,Charm 2; Coercion 4; Cool 3; Deception 3; Discipline 3; Outer Rim 2; Underworld 5; Leadership 2; Negotiation 4; Resilience 5; Vigilance 3,Durable 3; Resolve 2,Awkward; Ponderous,None,JoY:59*
+Kanz,Rival,Coercion 1; Cool 3; Deception 2; Melee 3; Perception 1; Skullduggery 2; Stealth 1,Expert Tracker 1,None,Vibroknife,SoF:120
+King Maalva,Nemesis,Charm 3; Coercion 4; Deception 4; Discipline 4; Outer Rim 2; Underworld 2; Leadership 3; Negotiation 4; Streetwise 3,Nobody's Fool 1; Plausible Deniability 2; Scathing Tirade,Hoverer; Silhouette 0,Armored Clothing; Ceremonial Sword; Encrypted credit voucher with 50;000 credits; Royal Crown,LoNH:80
+Kintan Strider,Rival,Brawl 2; Melee 2; Survival 2; Vigilance 2,Adversary 1; Durable 5,Hard to Kill; Reckless Strike,Crude club,LoNH:64
+Kip Famas,Rival,Cool 3; Gunnery 3; Leadership 2; Piloting [Space] 4,Form on Me; Skilled Jockey 2,Intuitive Navigation,Light Blaster Pistol; R2-series astromech droid; X-wing,SoR:126
+Klatooinian Elder,Nemesis,Charm 1; Coercion 2; Cool 2; Deception 2; Discipline 3; Lore 4; Leadership 3; Melee 1; Negotiation 2; Vigilance 3,Adversary 2; Inspiring Rhetoric; Nobody's Fool 2; Plausible Deniability 2,Blessing of the Acients,Ceremonial shamshir,LoNH:69
+Klatooinian Paddy Frog,Minion,Athletics; Stealth; Survival,None,Amphibious; Silhouette 0,None,LoNH:69
+Klatooinian Thug,Minion,Melee; Perception; Ranged [Light]; Vigilance,None,None,Blaster Pistol; Heavy Clothing; Vibroknife,LoNH:69
+KLC Series Exchequer Droid,Rival,Charm 2; Computers 2; Cool 2; Negotiation 2,Wheel and Deal 2,Droid,Mercantile computer with holonet connection,EtU:56
+KooChoo,Minion,Brawl; Melee,None,Droid,Reinforced manipulators,MPQ:24*
+Krash,Rival,Brawl 3; Cool 2; Leadership 1; Melee 2; Ranged [Light] 3; Vigilance 2,None,None,Armored Clothing; Heavy Blaster Pistol; Shock Gloves,MPQ:27*
+Kreehawk Ganger,Minion,Brawl; Piloting [Planetary]; Piloting [Space]; Ranged [Light],None,None,Brass Knuckles; Heavy Clothing; Light Blaster Pistol; Mobquet Flare-V swoop bike with garish paint job,CotG:58
+Krezo Wasanti,Rival,Charm 2; Deception 2; Underworld 4; Mechanics 1; Negotiation 3; Ranged [Light] 1; Streetwise 3,None,None,ASP-series labor droid; Fine Clothing; import/export shop keycard; Light Blaster Pistol,MPQ:24*
+Lathe,Rival,Brawl 2; Computers 3; Discipline 2; Education 2; Underworld 3; Mechanics 2; Perception 3,Defensive Slicing 2,None,Booster Blue (1 dose); Brass Knuckles; Datapad; Heavy Clothing; Slicer Gear; Tool Kit,MPQ:26*
+Liddy Ravora,Rival,Charm 2; Deception 2; Negotiation 2; Perception 3,None,None,Comlink (handheld); Encrypted Datapad; Holdout Blaster,SoF:51
+Lina Naras,Nemesis,Charm 2; Coercion 4; Computers 1; Cool 2; Deception 3; Melee 2; Perception 2; Vigilance 3,Adversary 1; Scathing Tirade [Improved],None,Code cylinder; Comlink (handheld); Datapad; Detention center administrator's uniform; Imperial ID; Stun Baton,RaGP:38
+Loan Shark,Nemesis,Charm 2; Coercion 2; Cool 2; Deception 4; Ranged [Light] 2; Perception 2; Vigilance 2,Adversary 1; Natural Negotiator; Spare Clip,None,Armored Clothing; Disruptor Pistol; Holdout Blaster,E-CRB:393
+Lobot,Nemesis,Computers 3; Discipline 3; Education 2; Outer Rim 1; Underworld 1; Mechanics 2; Perception 2; Vigilance 2,Adversary 1; Defensive Slicing 2; Speaks Binary 2,None,Borg Construct Aj^6 implant; Durable clothing; Holdout Blaster,JoY:12*
+LOM-Series Protocol Droid,Rival,Charm 2; Education 3; Outer Rim 2; Xenology 3; Negotiation 2,None,Droid; Etiquette and Protocol; Insectoid Appearance,None,DA:58
+Lor Keln,Rival,Brawl 2; Piloting [Planetary] 3; Ranged [Light] 2; Streetwise 2; Vigilance 1,Adversary 1,Push the Limit,Armored Clothing; Custom Heavy Blaster Pistol; Mobquet Flare-V swoop bike with garish paint job; Vibroknucklers,CotG:58*
+LRD-Series Envoy Droid,Rival,Charm 2; Education 2; Negotiation 2; Perception 2,None,Droid; Rhetorical Mimic,None,DA:57
+Lt. Commander Jilan Noor,Nemesis,Athletics 2; Brawl 2; Coercion 3; Cool 2; Discipline 4; Leadership 4; Ranged [Light] 3; Vigilance 3,Adversary 1; Tactical Combat Training,Imperial Valor; Tactical Direction,Blaster Pistol; Imperial Uniform; Military Comlink,A-CRB:456
+Lt. Masi Qual,Rival,Coordination 3; Warfare 1; Ranged [Light] 3; Skullduggery 3; Stealth 4; Streetwise 2,Master of Shadows,None,Blast Vest; Light Blaster Pistol; Throwing Knives,OaA:64*
+Lt. Rik Torrence,Rival,Charm 2; Leadership 1; Piloting [Planetary] 3; Piloting [Space] 3; Ranged [Light] 1; Survival 2,Full Throttle; Skilled Jockey 2,None,Blast Vest; Blaster Pistol,OaA:65*
+Lutrillian Merchant,Rival,Charm 1; Cool 1; Deception 1; Discipline 1; Negotiation 2; Streetwise 2,Greased Palms,Blubber,250 credits; Upper class clothing,JoY:14; CotGAD:16
+M-3PO-Series Military Protocol Droid,Rival,Discipline 1; Education 3; Warfare 3; Vigilance 2,None,Droid; Military Analyst,None,DA:56
+M226 Bridge Crew,Minion,Astrogation; Computers; Piloting [Space]; Ranged [Light],None,None,Blaster Pistol,A-CRB:456
+M226 Crew Chief,Rival,Athletics 2; Brawl 2; Coercion 1; Discipline 2; Leadership 3; Mechanics 3; Melee 2; Vigilance 2,None,None,Breath Masks and Respirators; Comlink (handheld); Datapad; Utility Belt,A-CRB:450
+M226 Navy Crewman,Minion,Athletics; Brawl; Mechanics; Melee; Vigilance,None,None,Breath Masks and Respirators; Comlink (handheld); Utility Belt,A-CRB:447; A-CRB:450
+M226 Navy Troopers,Minion,Discipline; Perception; Piloting [Planetary]; Ranged [Light]; Vigilance,None,None,Blast vest and Helmet; Blaster Pistol; Comlink (handheld),A-CRB:452
+Maintenance Droid,Minion,Mechanics,None,Droid,Tool Kit,RaGP:20*; A-CRB:428; E-CRB:411; CotGAD:8
+Major Yalor,Rival,Computers 4; Cool 3; Gunnery 2; Piloting [Space] 3,Field Commander,None,Flight Suit; Light Blaster Pistol,OaA:24
+Malau Jocaos,Nemesis,Coercion 3; Coordination 2; Deception 4; Piloting [Planetary] 2; Ranged [Light] 4; Skullduggery 3; Stealth 3,Adversary 2; Intense Presence,None,Blaster Pistol; Padded Armor; Personal Deflector Shield,OaA:84*
+Malefax,Nemesis,Brawl 1; Coercion 3; Coordination 1; Deception 2; Discipline 2; Melee 2; Perception 1; Skullduggery 2; Stealth 3; Ranged [Light] 1; Vigilance 2,Force Rating 2,Dark Side Force User; Force Power Move; Force Power Sense,Ancient Sith Sword; Black Robes; Blaster Pistol; Comlink (handheld); Stimpack,F-BGA:26
+Mandi,Rival,Athletics 2; Coercion 3; Deception 2; Leadership 2; Melee 3; Piloting [Planetary] 3; Ranged [Light] 2; Stealth 3,Adversary 1; Deadly Accuracy 1,None,Blaster Pistol; Laminate Armor; Secure Comlink; Vibrosword,MPQ:35*
+Mark IV Patrol Droid,Minion,Discipline; Perception; Stealth,None,Droid,Holorecorder; Military Comlink,A-CRB:452
+Marksman-H Combat Remote,Minion,Perception; Ranged [Light],None,Droid; Hoverer; Silhouette 0,Micro Stun Blaster,KtP:49
+Martle Station Dockhands,Minion,Athletics; Brawl; Coercion; Mechanics; Melee,None,None,Breath Masks and Respirators; Heavy Tool; Space Suit; Workgang Uniform,A-CRB:441
+Marus Grayson,Nemesis,Charm 2; Coercion 3; Cool 2; Deception 3; Core Worlds 4; Education 2; Negotiation 4; Ranged [Light] 1,Adversary 2; Resolve 1,Imperial Haughtiness,Encrypted Credit Chip with 5;000--10;00- credits; Formal clothing; Light Blaster Pistol; Personal Deflector Shield,JoY:64*
+Marv Moray,Rival,Athletics 1; Brawl 1; Leadership 1; Perception 2; Ranged [Light] 1,None,None,Heavy Work Clothing; Holdout Blaster,GMK:22
+Master Hunter,Nemesis,Brawl 2; Coercion 2; Cool 2; Ranged [Heavy] 3; Ranged [Light] 2; Melee 2; Perception 3; Piloting [Space] 2; Stealth 2; Vigilance 3,Adversary 2; Lethal Blows 2; Deadly Accuracy 1,None,Heavy Battle Armor; Heavy Blaster Rifle; Stun Grenade; Vibroknife,E-CRB:400; SaVAD:7*
+Mate,Rival,Coercion 2; Gunnery 3; Melee 2; Ranged [Light] 1; Perception 2; Piloting [Space] 1; Vigilance 2,None,None,Heavy Club; Holdout Blaster,E-CRB:434*
+Mature Hutt,Rival,Athletics 1; Charm 1; Coercion 2; Cool 1; Deception 2; Discipline 2; Outer Rim 1; Underworld 2; Melee 1; Ranged [Light] 1; Resilience 5,Convincing Demeanor 1; Durable 2; Nobody's Fool 1,Awkward; Ponderous,None,LoNH:46
+Mechanic,Minion,Mechanics,None,None,Heavy Hydrospanner; Repair Tools,A-CRB:413
+Medical Droid,Rival,Discipline 1; Medicine 3; Perception 2,None,Droid,built-in diagnostic and surgical tools,A-CRB:428; E-CRB:411; F-CRB:410; CotGAD:9
+Medtech Mini-Med,Minion,None,None,Droid; Surgeon's Aid,None,FH:49
+Mehmet Alovar,Rival,Charm 3; Deception 3; Discipline 3; Core Worlds 2; Education 3; Lore 3; Outer Rim 2; Xenology 2; Leadership 3; Negotiation 4,Adversary 1; Confidence 1; Inspiring Rhetoric; Kill with Kindness 2; Natural Charmer,Amphibious,Armored Clothing; Holdout Blaster,SoR:133
+Menagerie Guards,Minion,Melee; Ranged [Heavy]; Vigilance,None,None,Heavy Clothing; Light Spear; Soporific-Tipped Bow and Arrows,NoP:142
+Merderous Fugitive,Nemesis,Brawl 2; Discipline 2; Melee 4; Perception 2; Stealth 2; Vigilance 3,Adversary 2; Force Rating 3; Soft Spot,Dark Side Force User; Force Power Protect/Unleash,Serrated Vibroknife,F-CRB:413
+MI-Series Security Droid,Nemesis,Brawl 3; Coercion 4; Perception 3; Ranged [Heavy] 4; Vigilance 4,Adversary 1,Droid; Fire Sweep,Oversized Arms; Twin light repeating blasters; Twin stun blasters,EV:46
+Micael Torval,Nemesis,Charm 3; Cool 3; Deception 4; Education 2; Negotiation 3; Perception 3; Ranged [Light] 1; Streetwise 2,Force Rating 1; Sense Emotions,None,Fashionable clothing; Holdout Blaster,MPQ:65*
+Mil Mikkir,Nemesis,Charm 3; Coercion 2; Cool 2; Deception 3; Education 2; Negotiation 4; Ranged [Light] 1; Streetwise 1,Plausible Deniability 2; Smooth Talker 2,None,Datapad; Holdout Blaster; Personal Deflector Shield,JoY:61*
+Military Informant,Rival,Computers 1; Deception 2; Stealth 1; Vigilance 1,Indistinguishable 1,None,Disassembly-capable Secure Military Comlink; Disguise Kit; Holdout Blaster,A-CRB:420
+Military Starfighter Pilot,Minion,Gunnery; Piloting [Space],None,None,Light Blaster Pistol,E-CRB:405
+Mining Guild Enforcer,Rival,Brawl 2; Coercion 2; Discipline 1; Streetwise 2; Vigilance 1,Loom,None,Comlink (handheld); Guild Membership; Leather Vest; Spiked knuckle-gloves,NoP:63
+Mon Calamari Commander,Nemesis,Coercion 2; Cool 3; Discipline 2; Outer Rim 3; Warfare 3; Leadership 3,Adversary 1; Commanding Presence 1; Fire Control 1,Amphibious,Comlink (handheld); Datapad,SoR:35
+Mon Calamari Mechanic,Rival,Astrogation 1; Computers 1; Mechanics 2; Vigilance 1,None,Amphibious,Emergency Repair Patch; Holdout Blaster; Tool Kit,E-CRB:398
+Mon Calamari Shipwright,Rival,Computers 1; Education 2; Mechanics 2,Known Schematic,Amphibious,Comlink (handheld); Datapad with schematics; Repair Tools,SoR:35
+Montra Varn,Nemesis,Computers 2; Cool 3; Coordination 2; Deception 4; Discipline 3; Warfare 1; Melee 2; Perception 3; Ranged [Light] 2; Skullduggery 3; Stealth 3; Streetwise 2; Vigilance 2,Adversary 2; Clever Solution; Convincing Demeanor 2; Natural Charmer,None,Armored Clothing; Comlink (handheld); Encrypted datapad with Imperial holonet uplink; Holdout Blaster,SoR:134
+Moraband Sith Phantasm,Rival,Coercion 1; Discipline 3; Lightsaber 2; Stealth 4,None,Creature of Illusion; Darkest Dreams,Spectral blade; shadowsaber; or ghostly claws,CotG:85
+Morgukai Adept,Nemesis,Athletics 2; Brawl 2; Cool 1; Deception 2; Discipline 1; Melee 3; Resilience 1; Survival 2; Vigilance 2,Adversary 1; Lethal Blows 2,Kajain'sa'Nikto,Morgukai Cortosis Staff,LoNH:65
+Mustafarian Miner,Rival,Athletics 2; Brawl 3; Melee 1; Resilience 2; Vigilance 1,Adversary 1,Heat Resistance,Vibro-ax,F-CRB:418
+Narralla,Rival,Coordination 1; Perception 2; Stealth 2,None,Magnetic Sense,Holdout Blaster; Servant Apron; Utility Kit,OaA:86
+Naval Engineer,Minion,Computers; Mechanics,None,None,Light Blaster Pistol,A-CRB:420
+Neimoidian Citizen,Minion,Melee,None,Strength in Numbers,Light Blaster Pistol; Truncheon,CotG:52
+Nerf Herder,Minion,Survival,None,None,Flock of nerfs; Shepherd's Crook,A-CRB:433
+Nikto Enforcer,Rival,Athletics 1; Brawl 1; Melee 1; Perception 1; Resilience 1; Survival 1,None,None,Armored Clothing; Tuskbeast Pike,LoNH:65
+Noira,Nemesis,Charm 4; Coercion 3; Cool 5; Deception 4; Underworld 3; Leadership 5; Melee 3; Negotiation 4; Ranged [Light] 2; Streetwise 4,Adversary 2; Command 2; Steely Nerves,Awe-inspiring,Armored Uniform; Breath Masks and Respirators; Light Blaster Pistol; Ornate Armor; Pirate Queen's mask; Vibrorapier,MPQ:91*
+Norta,Rival,Cool 1; Underworld 2; Mechanics 3; Negotiation 3; Piloting [Planetary] 2; Ranged [Light] 2; Vigilance 2,Contraption,None,Blaster Pistol; Comlink (handheld); Padded Armor; Tool Kit; Utility Belt,BtR:83
+Nosh Droma,Rival,Charm 3; Computers 3; Deception 4; Core Worlds 3; Outer Rim 3; Negotiation 3; Perception 3; Ranged [Light] 2; Skullduggery 4; Streetwise 3,Adversary 1; Bought Info; Convincing Demeanor 3; Greased Palms; Know Somebody 1; Natural Charmer; Nobody's Fool 2; Wheel and Deal 3,None,2000 credits; Comlink (handheld); Datapad; Light Blaster Pistol,SoR:142
+NR-5 Maintenance Droid,Rival,Computers 2; Mechanics 2,None,Droid,Arc welder; Built-in Repair Tools; Fine Manipulator Arm; Heavy Grasper Arm,A-CRB:451
+Oake,Rival,Athletics 2; Discipline 2; Medicine 2; Melee 2; Ranged [Heavy] 2; Survival 2; Vigilance 3,Point Blank 1,Hard of Hearing; Teamwork,Blaster Pistol; Light Repeating Blaster; Utility Belt; Vibroknife; Worn Clone Trooper Armor,MPQ:29*
+Olom Roskom,Rival,Charm 2; Cool 1; Discipline 3; Mechanics 3; Melee 1; Negotiation 3; Perception 1,None,None,Comlink (handheld); Datapad; Imperial ID; RMS executive coverall; RMS ID; Tool Kit,RaGP:42
+Onrein Hasar,Nemesis,Coercion 4; Cool 3; Deception 4; Discipline 4; Underworld 4; Leadership 3; Melee 2; Negotiation 3; Ranged [Light] 2; Streetwise 3,Adversary 1; Intimidating 2,Fearsome Aspect,Armored Robes; Comlink (handheld); Modded Blaster Pistol; Refined Cortosis Staff,CotG:67
+OOM Security Droid,Minion,Ranged [Heavy]; Vigilance,None,Droid,Blaster Rifle,SoF:125
+Orange-Rated Constable,Minion,Discipline; Perception; Piloting [Planetary]; Ranged [Light]; Vigilance,Skilled Jockey 1,Constabulary Honor 2,Armored Clothing; Blaster Pistol,SoR:43
+Ord Radama Security Officer,Minion,Coercion; Discipline; Melee; Ranged [Light],None,None,Blaster Pistol; Security Uniform; Vibroknife,OaA:83
+Oridelve Miner,Minion,Athletics; Perception,None,None,Heavy Work Clothing; Weapons improvised from mining tools,GMK:22
+Orl Miscord,Nemesis,Astrogation 3; Deception 3; Discipline 2; Xenology 4; Melee 3; Perception 3; Vigilance 2,Adversary 2; Force Rating 4; Ritual Caster,Dark Side Force User; Force Power Forsee; Force Power Influence; Force Power Protect/Unleash,Heavy and Smelly Robes; Hidden Razor-dagger; Wizard's Staff,NoP:142
+Oso Maduk,Rival,Charm 2; Deception 2; Perception 2; Skullduggery 2; Stealth 2,None,None,Scanner Goggles,SoF:141
+Ossus Stone Guardian,Rival,Athletics 2; Brawl 3; Melee 2; Perception 2; Vigilance 2,Durable 2,Droid,"Cortosis Chassis; Integrated SecureTech ""Nightsight"" passive sensor suite; Stone Fists",NoP:128
+Overseer Brynn,Rival,Cool 1; Discipline 1; Perception 1; Ranged [Light] 1,None,None,Blaster Pistol; Comlink (handheld),E-BGA:18
+P2F Hostile Environment Remote,Minion,Athletics; Cool; Perception; Resilience,None,Droid,Built-in Holoprojector; Built-in Long Range Comlink; Scanner Suite,DoH:55
+Pashna Genko,Rival,Cool 2; Gunnery 3; Leadership 3; Piloting [Space] 3,Form on Me,Amphibious,Flight Suit; Light Blaster Pistol; R5-series astromech droid; Y-wing,SoR:126
+Passk,Rival,Charm 2; Deception 3; Discipline 3; Lore 4; Underworld 3; Negotiation 3; Ranged [Light] 2,None,None,Business attire; Claws; curio shop; Datapad; Holdout Blaster,A-CRB:439*
+Pathran Helshar,Rival,Coordination 2; Leadership 2; Melee 2; Perception 2; Ranged [Light] 2; Ranged [Heavy] 2; Survival 2,Adversary 1,For Quolas!; Glider,bearsloth venom (2 doses); Diiro; Slugthrower Rifle; Thick Furs and Leathers,CotG:31
+Petty Officer Tera Wen,Rival,Coercion 1; Discipline 3; Leadership 2; Perception 2; Piloting [Planetary] 2; Ranged [Light] 2; Vigilance 3,Coordinated Assault 1,None,Blast vest and Helmet; Blaster Pistol; Comlink (handheld),A-CRB:446*
+Phantasmal Beast of Moraband,Rival,Athletics 3; Brawl 2; Cool 1; Stealth 2; Vigilance 2,Crippling Blow,Living Shadow,None,CotG:84
+Philanthropic Senator,Rival,Charm 3; Cool 2; Deception 1; Core Worlds 2; Education 2; Leadership 3; Negotiation 4; Vigilance 1,None,None,Holdout Blaster,E-CRB:408
+Physician,Rival,Computers 1; Education 3; Medicine 3,Bacta Specialist 2; Surgeon 2,None,Bacta (liter); Medpac; Synthskin,A-CRB:430; CotGAD:4
+Pirate Captain,Nemesis,Coercion 3; Cool 3; Coordination 2; Deception 3; Gunnery 2; Leadership 2; Ranged [Heavy] 3; Melee 4; Resilience 2; Skullduggery 3,Adversary 2; Feral Strength 2; Knockdown,Pirate Leader,Armored Clothing; Heavy Blaster Rifle; Vibro-ax,A-CRB:426; E-CRB:394; SaVAD:11
+Pirate Crew,Minion,Cool; Ranged [Heavy]; Ranged [Light],None,None,Blaster Carbine; Heavy Blaster Pistol; Padded Armor; Vibroknife,A-CRB:425; E-CRB:393; SaVAD:10
+Planetary Defense Force Trooper,Minion,Brawl; Discipline; Ranged [Heavy]; Ranged [Light],None,None,Blast Vest; Blaster Carbine,E-CRB:405; F-CRB:402*
+Planetary Governor,Nemesis,Charm 3; Coercion 4; Cool 2; Deception 3; Perception 4; Education 4; Leadership 3; Ranged [Light] 3; Piloting [Planetary] 2; Resilience 2; Streetwise 2; Skullduggery 3; Vigilance 2,Inspiring Rhetoric [Improved]; Kill with Kindness 2; Nobody's Fool 2,Leader,Light Blaster Pistol,E-CRB:405; CotGAD:19
+Podracer Pilot,Rival,Cool 3; Mechanics 3; Piloting [Planetary] 4; Streetwise 2,Full Throttle; Skilled Jockey 1,None,Holdout Blaster; Podracer; Tool Kit,F-CRB:402
+Pol Orrich,Rival,Brawl 3; Coercion 3; Ranged [Heavy] 2; Resilience 2; Streetwise 2; Vigilance 2,None,None,Blaster Carbine; Comlink (handheld); Padded Armor; Sabacc Deck; Stimpack; Utility Belt,SoF:49
+Polis Massa Base Squadron Pilot,Minion,Cool; Gunnery; Piloting [Space],None,None,Flight Suit; Light Blaster Pistol; X-wing,SoR:126
+Politician / Senator,Nemesis,Charm 3; Cool 2; Deception 1; Core Worlds 2; Education 2; Negotiation 2,Commanding Presence 2; Works Like a Charm,None,Bodyguards; Comlink (handheld); Datapad,A-CRB:430; CotGAD:20*
+Porel Vakra,Nemesis,Brawl 3; Coercion 2; Cool 3; Underworld 3; Negotiation 2; Perception 3; Ranged [Light] 3; Streetwise 3,Adversary 1; Dodge 1; Point Blank 2,None,Armored Suit; Blaster Pistol; Comlink (handheld); Datapad; Holdout Blaster,MPQ:93*
+Pos Podura,Nemesis,Charm 1; Computers 1; Cool 2; Deception 2; Education 3; Negotiation 1; Skullduggery 1; Streetwise 1,Idealist 1; Resolve 2,Twi'lek,Holdout Blaster; Stolen credentials and encrypted expense voucher with 5;000 credits,JoY:62*
+Private Security Guard,Minion,Discipline; Melee; Perception; Ranged [Heavy]; Vigilance,None,None,Armored Guard Uniform; Comlink (handheld); Riot Gun; Vibroknife,JoY:78
+Probe Droid,Rival,Perception 4; Ranged [Light] 2,None,Droid; Hoverer; Self-destruct Mechanism,Heavy Blaster Pistol; Holo-Messenger; Life Form Scanner; Long-range terrain scanner,F-BGR:46
+Protocol Droid,Rival,Charm 2; Education 3; Xenology 3; Negotiation 2; Perception 1,None,Droid; Etiquette and Protocol,None,RaGP:33*; A-CRB:429; E-CRB:412; F-CRB:410; CotGAD:10
+Provincial Law Enforcement Officer,Minion,Coercion; Perception; Ranged [Light]; Vigilance,None,None,Blaster Pistol; Comlink (handheld); Police Armor; Truncheon,F-CRB:403
+Q-4 Borer Droid,Minion,Perception; Ranged [Light],None,Droid,Heavy-duty Drilling Laser; Rock-scanning Sensors,SoR:113
+Q7-Series Astromech Droid,Rival,Astrogation 3; Computers 3; Cool 2; Mechanics 2; Piloting [Space] 2,None,Droid,Built-in Repair Tools,SoT:47
+Quarren Agitator,Rival,Charm 2; Coercion 2; Deception 2,Scathing Tirade,Amphibious,Holdout Blaster; Inflammatory pamphlets and propaganda,A-CRB:413
+Quartermaster,Rival,Discipline 2; Negotiation 3; Streetwise 2,Know Somebody 2; Nobody's Fool 1,None,Blast Vest; Light Blaster Pistol,A-CRB:414
+Quolas Citizen,Minion,Coordination; Melee; Ranged [Heavy]; Survival,None,Glider,bearsloth venom (1 dose); Diiro; Slugthrower Rifle; Thick Furs and Leathers,CotG:32
+Quolas Elder,Rival,Coordination 2; Leadership 2; Melee 2; Negotiation 3,Inspiring Rhetoric,Glider,bearsloth venom (5 doses); Diiro; Ornate Thick Furs and Leathers,CotG:32
+Quolas Guard,Minion,Coordination; Melee; Ranged [Light]; Survival,None,Glider,bearsloth venom (2 doses); Binders; Diiro; Padded Armor; Slugthrower Pistol,CotG:26
+Quolas Guard Captain,Rival,Coordination 2; Discipline 2; Melee 3; Ranged [Light] 3; Vigilance 1,Adversary 1,Glider; Restraint,bearsloth antivenom (2 doses); bearsloth venom (10 doses); Binders; Comlink (handheld); Diiro; Padded Armor; Slugthrower Pistol,CotG:26
+R2-B7,Rival,Astrogation 3; Computers 2; Cool 2; Mechanics 2,None,Droid,Arc welder; Tool Kit,GMK:8*
+R4-W9,Rival,Astrogation 3; Computers 3; Cool 1; Mechanics 2; Piloting [Space] 2,None,Droid,Arc welder,E-CRB:430*
+R7-Series Astromech Droid,Rival,Astrogation 3; Computers 3; Cool 2; Mechanics 3; Piloting [Space] 2,Galaxy Mapper 1; Hold Together,Droid,Arc welder; Built-in Repair Tools,SoT:46
+Raider,Minion,Brawl; Melee; Ranged [Light]; Survival,None,None,Boiled Leather Jerkin; Hand Crossbow; Stabbing Sword,NoP:37
+Raider Warlord,Nemesis,Melee 2; Perception 3; Survival 3; Ranged [Light] 1; Resilience 2,Adversary 1; Force Rating 2; Parry 3,Dark Side Force User; Force Power Heal/Harm,None,NoP:36
+Ranat Scout,Minion,Brawl; Melee; Skullduggery; Stealth; Survival,None,Cornered Fury,Makeshift Knife; Ranat Bite,A-CRB:451
+Ranat Stalker,Minion,Brawl; Melee; Stealth; Survival,None,Cornered Fury,Makeshift Spear; Ranat Bite,A-CRB:449
+Raquor'Daan Beastmaster,Rival,Melee 2; Perception 1; Ranged [Heavy] 2; Resilience 3; Survival 3,None,Pheromone Communication,Beastmaster's Vibro-Glaive; Blaster Carbine,LoNH:77
+Rasz Kal,Rival,Deception 3; Underworld 2; Perception 2; Piloting [Space] 2; Ranged [Light] 3; Skullduggery 2; Streetwise 2,Adversary 2,None,Blaster Pistol; Brass Knuckles; Broken Hyperdrive motivator; Padded Armor,SoF:125
+Rebel Alliance Liaison,Rival,Coordination 1; Cool 1; Discipline 2; Melee 1; Negotiation 3; Ranged [Heavy] 2; Vigilance 2,Adversary 1,None,Blaster Rifle; Molecular Stiletto,E-CRB:408; IaRAD:15
+Rebel Cell Leader,Nemesis,Charm 3; Cool 3; Coercion 2; Deception 3; Discipline 2; Warfare 1; Leadership 3; Melee 2; Ranged [Light] 1,Adversary 2; Inspiring Rhetoric,Alliance Leader,Armored Clothing; Disruptor Pistol; Fire Bomb; Vibroknife,A-CRB:414; IaRAD:20
+Rebel Specforce Infiltrator,Rival,Melee 2; Perception 1; Ranged [Light] 2; Skullduggery 2; Stealth 3,Adversary 1; Stalker 2,Shadowed; Swipe 1,Encrypted Comlink; Light Blaster Pistol; Reinforced Blast Vest; Vibroknife,A-CRB:414; IaRAD:19
+Regent Credi Solfinn,Rival,Charm 2; Cool 4; Deception 3; Discipline 2; Education 3; Negotiation 3; Perception 2,Adversary 2; Kill with Kindness 1,None,Comlink (handheld); Datapad,SoR:47
+Reom (Twi'lek),Nemesis,Astrogation 1; Charm 2; Coercion 4; Cool 2; Deception 2; Discipline 3; Underworld 2; Mechanics 5; Medicine 1; Melee 2; Negotiation 3; Piloting [Space] 2; Ranged [Light] 3; Vigilance 2,Adversary 2; Convincing Demeanor 2; Gearhead 2; Nobody's Fool 1,Technical Master,"Datapad; Heavy Blaster Pistol; Heavy Clothing; Pet Bogwing (""Mordekai""); Tool Kit; Utility Belt; Vibroknife",BtR:16
+Revah,Nemesis,Charm 3; Coercion 3; Cool 2; Deception 3; Discipline 3; Underworld 3; Leadership 3; Ranged [Light] 2; Vigilance 3,Adversary 1; Soft Spot,Pirate Leader,Blaster Pistol; Heavy Clothing; Sorority Mask; Vibroknife,MPQ:36*
+"RMD-20 ""Eye in the Sky""",Minion,Perception; Vigilance,None,Droid; Hoverer; Silhouette 0,Recording Holocam,KtP:50
+Roche J9 Worker Drone,Rival,Charm 1; Education 4; Xenology 3; Negotiation 2,None,Droid,Olfactory and microwave sensors,SoR:113
+Roche Siak-series Protocol Droid,Rival,Charm 3; Education 2; Xenology 3; Negotiation 3,None,Droid,None,SoR:113
+Roowarra,Rival,Athletics 2; Brawl 2; Melee 1; Piloting [Space] 1; Ranged [Heavy] 1; Survival 2,None,Wookie Rage,Bowcaster,DitW:7
+Roowarra's Crew,Minion,Brawl; Mechanics; Perception; Ranged [Light]; Vigilance,None,None,Heavy Blaster Pistol,DitW:7
+Ryale Wei,Nemesis,Charm 3; Coercion 4; Cool 3; Deception 4; Underworld 4; Leadership 4; Melee 3; Streetwise 4,Adversary 2; Nobody's Fool 2,Leader,Vibrorapier,MPQ:71*
+Saboteur Astromech,Rival,Astrogation 3; Computers 3; Cool 2; Gunnery 2; Mechanics 2; Piloting [Space] 3,None,Droid,Arc welder; Built-in Repair Tools,DitW:22
+Saboteur Load Lifter,Minion,Athletics; Brawl; Melee,None,Droid; Silhouette 2,Large Improvised Weapon; Truncheon lifters,DitW:22
+Saboteur Medical Droid,Rival,Discipline 1; Medicine 3; Perception 2,None,Droid,Anesthetic Injector; built-in diagnostic and surgical tools; Vibroscalpel,DitW:22
+Sakiyan Bounty Hunter,Rival,Athletics 1; Coordination 1; Perception 1; Ranged [Light] 2; Stealth 1; Survival 2; Vigilance 1,Expert Tracker 2,None,Binders; Sakiyan Shadowsuit; SakTek D-29 Repulsor Rifle,LoNH:73
+Sala Vindako,Rival,Discipline 2; Melee 3; Negotiation 2; Xenology 3; Ranged [Light] 3; Survival 3; Vigilance 2,Adversary 1; Hunter 2,None,Beast Goad; Heavy Leather Clothing; Soporific-Tipped Bow and Arrows,NoP:141*
+Salana,Nemesis,Charm 3; Coercion 2; Warfare 2; Leadership 3; Negotiation 3; Perception 2; Ranged [Light] 2; Streetwise 3; Skullduggery 2,Adversary 2; Inspiring Rhetoric,None,Blaster Pistol; Comlink (handheld); Personal Deflector Shield,SoR:47
+Savo and Camerlin,Rival,Cool 2; Melee 3; Perception 2; Ranged [Light] 3; Vigilance 2,None,None,Armored Clothing; Blaster Pistol; Comlink (handheld); Datapad; Scanner Goggles; Utility Belt,LoNH:135*
+SBD Series Assistance and Rescue Droid,Rival,Cool 1; Coordination 2; Mechanics 1; Medicine 2; Perception 3,Keen Eyed 2,Droid,2 emergency medpacs; 8 stimpacks; Built-in General Purpose Scanner; Built-in Long Range Comlink; Built-in Physician's Kit; Built-in toolkit,DoH:55
+Scarred Gladiator,Nemesis,Athletics 2; Brawl 4; Coordination 1; Medicine 3; Melee 3; Streetwise 2; Survival 2; Vigilance 2,Adversary 2; Force Rating 2,Dark Side Force User; Force Power Heal/Harm,None,F-CRB:413
+Scout,Rival,Astrogation 3; Gunnery 2; Outer Rim 2; Mechanics 2; Piloting [Space] 3; Ranged [Light] 1,Galaxy Mapper 3,None,Blaster Pistol; Datapad; Scout Ship,F-CRB:402
+Scout Collector,Rival,Xenology 4; Perception 3,None,Droid; Hoverer; Silhouette 3,Cryostorage bay; Grapple arms,EtU:57
+Scout Surveyor,Rival,Perception 3; Ranged [Light] 1; Stealth 2; Survival 3,Hunter 1; Swift,Droid,Stun blaster,EtU:57
+SDMN Series Session Droid,Rival,Charm 2; Cool 2; Computers 2; Coordination 2; Deception 2,Plausible Deniability 1; Smooth Talker 2,Backup Entertainer; Droid,None,FH:50
+Sector Ranger,Rival,Athletics 2; Brawl 1; Cool 2; Coordination 2; Ranged [Heavy] 3; Ranged [Light] 3; Streetwise 3; Survival 3; Vigilance 2,Adversary 1,None,Blaster Pistol; Blaster Rifle; Heavy Clothing,E-CRB:405
+Security Droid,Rival,Ranged [Light] 3; Vigilance 3,None,Droid,Blaster Pistol,E-CRB:412; CotGAD:11
+Security Droid,Rival,Ranged [Light] 3; Vigilance 3,Heightened Awareness,Droid,Built-in blaster pistol; Snare Launcher,JoY:80
+Security Enforcer,Minion,Melee; Perception; Ranged [Heavy],None,None,Blaster Carbine; Shock Truncheon; Uniform,SoF:73
+Security Investigator,Rival,Coercion 2; Deception 2; Discipline 2; Perception 2,None,None,Disruptor Pistol; Uniform,SoF:73
+Security Officers,Rival,Discipline 1; Melee 1; Perception 2; Ranged [Light] 1; Streetwise 2; Vigilance 2,None,None,Comlink (handheld); Heavy Blaster Pistol; Padded Armor; Stimpack; Truncheon,SoF:126*
+Selonian Thug,Minion,Brawl; Melee; Perception; Stealth; Vigilance,None,None,Padded Armor; Selonian Glaive; Tail,SoF:48
+Selonian Wanderer,Rival,Brawl 1; Melee 1; Resilience 1; Vigilance 1,None,None,Padded Armor; Selonian Glaive; Stimpack; Tail,SoF:123
+Senior Advisor Setenna Hase,Nemesis,Charm 3; Cool 2; Discipline 2; Education 4; Warfare 1; Leadership 2; Negotiation 3; Ranged [Light] 2,Adversary 2; Command 2; Field Commander,Improved Covering Fire,Blast Vest; Light Blaster Pistol,OaA:18
+Sentry Droid Profile,Rival,Gunnery 2; Piloting [Space] 2,None,None,None,E-CRB:431
+Sera Riggers,Nemesis,Cool 3; Leadership 3; Negotiation 2; Perception 4; Ranged [Light] 2; Streetwise 3; Vigilance 2,Adversary 1; Nobody's Fool 1,Spaceport Leader,Blaster Pistol; Comlink (handheld); Datapad; Uniform,SoF:49
+Seraphs Gang Member,Minion,Melee; Piloting [Planetary]; Ranged [Light]; Streetwise,None,None,Chain; Light Blaster Pistol; Riding Leather,SoF:131
+Service Patch Remote,Minion,Computers; Mechanics,Technical Aptitude 1,Droid; Silhouette 0,Built-in toolkit,SM:53
+Shadowport Mechanic,Rival,Astrogation 1; Computers 2; Mechanics 3; Streetwise 2; Underworld 2,None,None,Heavy Hydrospanner; Tool Kit,A-CRB:426; CotGAD:5
+Shalo Sherin,Nemesis,Charm 3; Coercion 3; Deception 4; Underworld 2; Leadership 3; Negotiation 3; Ranged [Light] 2; Streetwise 3,Adversary 1; Gang Leader; Smooth Talker 1,None,Fine Clothing; Light Blaster Pistol; Personal Deflector Shield,LoNH:135*
+Shen's Goons,Minion,Brawl; Coercion; Gunnery; Ranged [Heavy]; Streetwise,Lethal Blows 1,None,Blaster Carbine; Brass Knuckles; Heavy Clothing,JoY:87
+Shield Remote,Minion,Vigilance,Body Guard 1,Droid; Silhouette 0,General Purpose Scanner,SM:53
+Shipjacker,Rival,Computers 1; Deception 2; Piloting [Space] 2; Skullduggery 2; Stealth 2; Vigilance 1,Adversary 1,None,Electronic Lock Breaker; Heavy Blaster Pistol; Stun Grenade,E-CRB:394; SaVAD:14
+Shreya Ordassa,Nemesis,Charm 2; Coercion 2; Cool 2; Deception 1; Education 4; Leadership 1; Negotiation 3,Nobody's Fool 1; Scathing Tirade,None,Datapad,JoY:60*
+Sianna Sekko,Nemesis,Deception 2; Discipline 3; Lightsaber 3; Ranged [Light] 1; Stealth 2; Vigilance 2,Adversary 2; Ataru Technique; Force Rating 3; Parry (Improved); Parry 3; Reflect 3,Force Power Enhance; Force Power Misdirect,BlasTech SE-14r Light Repeating Blaster; Blood Blade; Combat Robes; Stimpack,NoP:123
+Skyholme Astromancer,Nemesis,Astrogation 4; Discipline 3; Lore 4; Perception 3; Vigilance 2,Adversary 2; Force Rating 4; Ritual Caster,Force Power Forsee; Force Power Protect/Unleash,Heavy and Smelly Robes; Wizard Pouch; Wizard's Staff,NoP:37
+Skyholme Lucite,Nemesis,Astrogation 4; Deception 3; Discipline 2; Lore 4; Melee 3; Perception 3; Vigilance 2,Adversary 2; Force Rating 4; Ritual Caster,Dark Side Force User; Force Power Forsee; Force Power Protect/Unleash,Heavy and Smelly Robes; Hidden Razor-dagger; Wizard Pouch; Wizard's Staff,NoP:37
+Slaver,Rival,Coercion 2; Melee 2; Ranged [Light] 2; Vigilance 2,None,None,Battered stun pistol; Net; Truncheon,E-CRB:394; SaVAD:13
+Slaver Guard,Minion,Coercion; Melee; Ranged [Heavy],None,None,Adverse Environment Gear; Blaster Rifle; Force Pike; Stun Grenade,MPQ:62
+Slicer,Rival,Computers 2; Cool 2; Skullduggery 1,Bypass Security 1,None,Slicer Gear; Stun blaster,A-CRB:426; E-CRB:395; SaVAD:15
+Smuggler,Rival,Charm 2; Cool 1; Piloting 3; Ranged [Light] 2; Skullduggery 2; Streetwise 2; Vigilance 1,Skilled Jockey 2,None,Blaster Pistol,A-BGR:46; E-BGR:46
+Smuggler,Rival,Charm 2; Cool 1; Ranged [Light] 2; Piloting [Space] 3; Skullduggery 2; Streetwise 2; Vigilance 1,Adversary 1; Skilled Jockey 2,None,Blaster Pistol,A-CRB:427; E-CRB:396; SaVAD:8
+Smuggler Baron,Nemesis,Astrogation 3; Charm 2; Cool 3; Gunnery 3; Underworld 3; Ranged [Light] 3; Piloting [Planetary] 3; Piloting [Space] 4; Skullduggery 2; Streetwise 4; Vigilance 2,Adversary 1; Master Pilot; Skilled Jockey 2,None,Armored Clothing; Heavy Blaster Pistol,E-CRB:395; SaVAD:9
+Sororith Palace Guard,Minion,Coercion; Cool; Discipline; Melee; Ranged [Heavy],None,None,Blaster Carbine; Heavy Clothing Uniforms; Vibrosword,MPQ:70
+Sorority Bodyguard,Rival,Athletics 2; Brawl 3; Cool 2; Melee 2; Piloting [Planetary] 2; Ranged [Light] 3; Vigilance 3,Targeted Blow,None,Blaster Pistol; Comlink (handheld); Heavy Clothing; Vibroknife,MPQ:65
+Sorority Coutier,Minion,Charm; Deception; Streetwise; Underworld,None,None,Flamboyant clothing,MPQ:70
+Sorority Crew,Minion,Computers; Gunnery; Mechanics; Melee; Ranged [Light],None,None,Breath mask or space suit; Glow Rod; Tool Kit; Utility Belt; Vibroknife,MPQ:89
+Sorority Defender,Minion,Melee; Ranged [Light]; Vigilance,None,None,Blaster Pistol; Breath Masks and Respirators; Padded Armor; Vibroknife,MPQ:85
+Sorority Engineer,Minion,Computers; Mechanics; Melee; Ranged [Light],None,None,Blaster Pistol; Breath Masks and Respirators; Glow Rod; Heavy Hydrospanner; Sealed Coveralls; Tool Kit; Utility Belt,MPQ:88
+Sorority Fighter Jockey,Minion,Astrogation; Gunnery; Piloting [Space]; Ranged [Light],None,None,Blaster Pistol; Flight suit and helmet; Utility Belt,MPQ:79
+Sorority Pirate,Minion,Coercion; Cool; Melee; Ranged [Heavy]; Ranged [Light],None,None,Blaster Carbine; Heavy Blaster Pistol; Heavy Clothing; Vibroknife; Vibrosword,MPQ:31
+Sorority Pirate Queensguard,Minion,Coercion; Cool; Melee; Ranged [Heavy]; Vigilance,None,None,Armored Clothing; Blaster Carbine; Vibro-ax,MPQ:36
+Sorority Saboteur,Minion,Computers; Mechanics; Melee; Ranged [Light]; Skullduggery,None,None,Heavy Blaster Pistol; Heavy Clothing; Utility Belt; Vibroknife,MPQ:75
+SoroSuub Corporate Security,Minion,Coercion; Melee; Perception; Ranged [Heavy]; Resilience; Vigilance,None,None,Activv1 Riot Shield; Binders; Blaster Carbine; Comlink (handheld); Padded Armor; Stun Baton,SoR:139
+SoroSuub G2 Repair Droid,Rival,Astrogation 2; Computers 3; Core Worlds 1; Outer Rim 1; Mechanics 3; Piloting [Space] 2,None,Droid,None,SoR:114
+SoroSuub Wanderer Scout Survey Droid,Rival,Perception 3; Ranged [Light] 1; Stealth 2; Survival 3,Hunter 1; Swift,Droid,Stun blaster,SoR:114
+Spaceport Administrator,Nemesis,Charm 2; Coercion 2; Cool 2; Deception 2; Ranged [Light] 2; Perception 4; Streetwise 3; Vigilance 3,Adversary 1; Nobody's Fool 1; Plausible Deniability 2,Spaceport Leader,Comlink (handheld); Datapad; Light Blaster Pistol,E-CRB:398; CotGAD:18
+Spaceport Official,Rival,Charm 1; Coercion 1; Cool 1; Outer Rim 3,None,None,Encrypted Comlink; Light Blaster Pistol,OaA:77
+Spaceport Overseer,Rival,Coercion 2; Cool 2; Perception 3; Streetwise 3; Vigilance 3,None,None,Comlink (handheld); Datapad; Light Blaster Pistol,A-CRB:431
+Spaceport Security Detail,Minion,Perception; Ranged [Light],None,None,Blaster Pistol; Padded Armor; Stun Grenade,E-CRB:398
+Spaceport Security Droids,Rival,Discipline 1; Ranged [Light] 3,None,None,Built-in blaster pistol,E-BGA:18; E-BGA:24
+Spaceport Security Officer,Rival,Cool 1; Discipline 2; Ranged [Heavy] 2; Ranged [Light] 1; Resilience 2; Vigilance 2,Adversary 1,None,Blaster Rifle; Padded Armor; Stimpack,E-CRB:398
+Spaceport Urchin,Minion,Skullduggery; Stealth; Streetwise; Survival,None,None,Small rocks,E-CRB:399
+Spice Pusher,Rival,Deception 3; Negotiation 3; Ranged [Light] 2; Skullduggery 3; Streetwise 4,None,None,Avabush Spice (1 dose); Death Sticks (1 dose); Glitterstim (1 dose); Heavy Blaster Pistol; Vibroknife,F-CRB:405
+Spir Fraxis,Minion,None,None,None,Heavy Blaster Pistol,E-CRB:425*
+Starfighter Ace,Rival,Cool 3; Gunnery 2; Piloting [Space] 3,None,None,Astromech Droid; Flight Suit; Light Blaster Pistol,A-CRB:415; IaRAD:18
+Starfighter Pilot,Minion,Cool; Gunnery; Piloting [Space],None,None,Flight Suit; Light Blaster Pistol,A-CRB:415; IaRAD:17
+Stone Guardian,Rival,Athletics 2; Brawl 3; Perception 2; Vigilance 2,Durable 2,Droid,"Integrated SecureTech ""Nightsight"" passive sensor suite; Stoney Fists",NoP:106
+Stormtrooper Captain TH-313,Rival,Athletics 2; Deception 1; Discipline 2; Leadership 3; Melee 2; Ranged [Heavy] 2; Ranged [Light] 2; Resilience 2; Vigilance 2,Adversary 1,Bad Knee,BlasTech SE-14r Light Repeating Blaster; Extra Reload; Frag Grenade; Stormtrooper Armor; Utility Belt; Vibroknife,CotG:65
+Stormtrooper Specialty Corps: Dark Trooper,Rival,Brawl 2; Gunnery 4; Perception 2; Vigilance 2,Adversary 1,Droid; Enhanced Senses,Internal Comlink; Jet Pack; Missile Tube; Plasma Shell Assault Cannon; Power Armor,A-CRB:421
+Stormtrooper Specialty Corps: Sandtrooper,Minion,Athletics; Discipline; Melee; Ranged [Heavy]; Resilience; Survival,None,None,Blaster Rifle; Extra Reload; Food and Water packs; High-temp Environment Armor; Utility Belt,A-CRB:422; OaA:37*
+Stormtrooper Specialty Corps: Scout Trooper,Minion,Athletics; Discipline; Melee; Ranged [Heavy]; Ranged [Light]; Vigilance,None,None,Blaster Sniper Rifle with scope; Extra Reload; Frag Grenade; Light Blaster Pistol; Scout Trooper Armor; Utility Belt,A-CRB:422; IaRAD:3
+Stormtrooper Specialty Corps: Snowtrooper,Minion,Athletics; Discipline; Gunnery; Melee; Ranged [Heavy]; Resilience; Survival,None,None,Heavy Repeating Blaster; Multi-optic sighted blaster rifle; Snowtrooper Armor,RaGP:25*; A-CRB:422; IaRAD:4
+Street Tough,Minion,Melee; Ranged [Heavy]; Ranged [Light]; Skullduggery,None,None,Blaster Pistol; Slugthrower Rifle; Truncheon,E-CRB:396; F-BGR:46; F-CRB:405; SaVAD:1
+Suljo Warde,Nemesis,Athletics 2; Brawl 3; Cool 3; Deception 3; Discipline 3; Lightsaber 4; Perception 3; Resilience 2; Vigilance 3,Adversary 3; Center of Being 2; Force Rating 5; Parry 3; Reflect 3; Saber Throw; Center of Being (Improved); Parry (Improved); Reflect (Improved),Dark Side Force User; Force Power Enhance; Force Power Move; Force Power Warde's Foresight,Armored Robes; Kyber Crystal; Warde's Lightsaber,CotG:93
+Sullustan Pilot-for-Hire,Rival,Astrogation 4; Cool 1; Gunnery 2; Ranged [Light] 1; Perception 5; Piloting [Planetary] 3; Piloting [Space] 3; Survival 1,None,None,Blaster Pistol,E-CRB:396
+Sullustan Resistance Fighter,Minion,Melee; Perception; Ranged [Heavy]; Ranged [Light]; Skullduggery; Stealth,None,None,Blaster Carbine; Combat Knife; Frag Grenade; Padded Armor,SoR:138
+Sunny Bounder,Nemesis,Coercion 2; Cool 4; Leadership 1; Melee 3; Piloting [Planetary] 3; Ranged [Light] 2; Streetwise 3,Adversary 1; Full Throttle [Improved]; Natural Driver,None,Blaster Pistol; Chain; Riding Armor,SoF:130
+Survivors,Minion,Athletics; Discipline; Melee; Ranged [Heavy]; Ranged [Light],None,Animal Combatant; Wilderness Valor,Combat Knife; Comlink (handheld); Worn-out blaster pistol,BtR:64
+Swamptrooper,Minion,Athletics; Discipline; Melee; Perception; Ranged [Heavy]; Ranged [Light]; Survival; Vigilance,None,None,Blaster Carbine; Electrobinoculars; Extra Reload; Frag Grenade; Rebreather; Swamptrooper Armor,LoNH:128
+Swoop Ganger,Rival,Brawl 1; Piloting [Planetary] 1; Ranged [Light] 1; Streetwise 1,None,None,Light Blaster Pistol,E-CRB:397; SaVAD:3
+T'Landa Til Charlatan,Rival,Brawl 1; Charm 3; Deception 3,Blooded 2,Humming Vibrations,None,LoNH:87
+T-Series Tactical Droid,Rival,Cool 3; Discipline 2; Warfare 3; Leadership 3; Perception 2; Vigilance 2,Field Commander,CDE-T Tactical Computer; Droid,None,LbE:45
+Tabarith's Thug,Rival,Brawl 1; Coercion 1; Ranged [Light] 1,None,None,Blaster Pistol; Brass Knuckles; Comlink (handheld); Long Coat,JoY:24
+Tactical Assassin Droid,Rival,Melee 2; Ranged [Light] 1; Vigilance 3,None,Droid,Force Pike; Integral Wrist Blaster,F-CRB:440
+Tam Blackstar,Rival,Gunnery 2; Piloting [Space] 2,Skilled Jockey 2,None,Flight Suit; Light Blaster Pistol,OaA:42
+Tarryn Rayzer,Rival,Charm 2; Computers 2; Cool 2; Mechanics 3; Piloting [Planetary] 4; Streetwise 2,Full Throttle,None,Blaster Pistol; Comlink (handheld),JoY:47*
+Taska Mastigar,Rival,Brawl 2; Charm 3; Coercion 3; Deception 2; Discipline 2; Outer Rim 2; Underworld 3; Xenology 1; Melee 2; Negotiation 3; Ranged [Light] 2; Streetwise 3,Adversary 1; Nobody's Fool 3; Plausible Deniability 3; Scathing Tirade,None,Armored Clothing; Comlink (handheld); Datapad; Holdout Blaster,SoR:143
+TC-SC Infiltration Droid,Nemesis,Athletics 2; Computers 3; Cool 3; Deception 4; Melee 3; Perception 3; Ranged [Light] 3; Skullduggery 3; Stealth 4; Vigilance 3,Adversary 2; Indistinguishable 2,Droid,Multispectrum disguise suite,EV:47
+TC-Series Protocol Droid,Rival,Charm 2; Education 3; Xenology 3; Negotiation 1; Perception 2,None,Advanced Language Module; Droid; Etiquette and Protocol,None,DA:55
+Tetan Guard,Rival,Brawl 3; Coercion 2; Cool 3; Discipline 3; Ranged [Light] 2; Ranged [Heavy] 2; Vigilance 3,Body Guard 2,None,Binders; Ceremonial Armor; Ceremonial Blaster Rifle; Comlink (handheld),NoP:63; NoP:124
+Thamoss,Nemesis,Brawl 3; Underworld 2; Negotiation 3; Perception 3; Ranged [Light] 2; Streetwise 3; Vigilance 3,Adversary 1,Trandoshan Claws,Comlink (handheld); Disruptor Pistol; Holdout Blaster; Padded Armor,LoNH:132*
+Thamoss's Security Guards,Minion,Deception; Perception; Ranged [Heavy]; Ranged [Light]; Vigilance,Quick Strike 1,None,Armored Clothing; Blaster Carbine; Blaster Pistol; Combat Knife; Comlink (handheld); Thermal Cloak,LoNH:132
+The Anvil,Rival,Athletics 2; Brawl 3; Coercion 2; Coordination 3; Discipline 2; Melee 2; Resilience 2; Streetwise 1,None,None,Mask; Wresting costume,MPQ:56*
+The Carbine,Rival,Cool 2; Gunnery 3; Piloting [Planetary] 3; Ranged [Light] 3,Dead to Rights,None,Heavy Blaster Pistol,JoY:46*
+The Gatekeeper,Rival,Cool 1; Discipline 1; Knowledge 2,None,None,None,F-BGA:13
+TIE Ace,Rival,Gunnery 2; Piloting [Space] 2,None,None,Flight Suit; Light Blaster Pistol; Sensory Augmentation Package,A-CRB:423; IaRAD:6
+TIE Pilot,Minion,Gunnery; Piloting [Space],None,None,Flight Suit; Light Blaster Pistol,A-CRB:423; E-BGA:26*; F-CRB:408; IaRAD:5
+Tik,Rival,Brawl 3; Coercion 2; Melee 3; Perception 2; Stealth 4; Survival 4; Vigilance 2,Jump Up; Natural Brawler,Cornered Fury,Makeshift Spear; Tribal Fetishes,A-CRB:449
+TJ-11,Nemesis,Coercion 2; Cool 2; Leadership 3; Education 1; Warfare 2; Perception 2; Ranged [Light] 3; Vigilance 2,Adversary 2; Command 2; Field Commander,Droid,Comlink (handheld); Datapad; Heavy Blaster Pistol,DitW:23*
+Tol Pirilian,Rival,Charm 3; Cool 1; Deception 3,None,None,City government datapad (encrypted); City government ID; city-issued luxury airspeeder; Imperial ID; Protocol Droid,RaGP:29*
+Tor Haido,Rival,Cool 1; Discipline 1; Mechanics 2; Negotiation 1; Perception 1; Skullduggery 1,None,None,Holdout Blaster,CotG:60
+Torani Kulda,Nemesis,Athletics 2; Coercion 3; Cool 2; Perception 2; Ranged [Heavy] 3; Ranged [Light] 2; Streetwise 2; Survival 3,Adversary 1; Soft Spot,None,Blaster Pistol; Blaster Rifle; Comlink (handheld); Utility Belt; Vibroknife,LoNH:136*
+Toydarian Farmer,Minion,Athletics; Melee; Negotiation; Survival,None,Hoverer; Silhouette 0,Farming Implement,LoNH:80
+Toydarian Merchant,Rival,Charm 2; Cool 2; Deception 3; Negotiation 2; Perception 3; Streetwise 2,Natural Negotiator; Nobody's Fool 1,Hoverer; Silhouette 0,Dataslate; Holdout Blaster; Loaded Chance Cubes,LoNH:80; F-CRB:403
+Toydarian Royal Guard,Rival,Discipline 4; Melee 2; Perception 2; Ranged [Light] 2; Ranged [Heavy] 2; Vigilance 3,Body Guard 1,Hoverer; Silhouette 0,Blaster Rifle; Cortosis Sword; Electro-visor; Frag Grenade; Padded Armor,LoNH:81
+Tracer,Nemesis,Coercion 2; Deception 3; Discipline 2; Leadership 1; Perception 3; Ranged [Light] 3; Vigilance 2,Adversary 1,None,Detention center prisoner uniform,RaGP:46
+Trandoshan Mercenary,Rival,Coercion 2; Cool 1; Discipline 1; Lore 2; Melee 2; Ranged [Heavy] 2; Vigilance 2,None,Regeneration,Blaster Rifle; Claws; Comlink (handheld); Padded Armor,BtR:87
+TRD-2 Sparring Droid,Rival,Athletics 2; Brawl 3; Coordination 1; Lightsaber 3; Melee 3; Ranged [Heavy] 2,None,Combat Training; Droid,Double-bladed Training Saber; Stun Cannon; Z6 Riot Control Baton,DoH:56
+Trex,Nemesis,Brawl 1; Cool 1; Discipline 1; Mechanics 3; Negotiation 1; Perception 2; Piloting 1; Ranged [Light] 2; Vigilance 1,None,Trandoshan Claws,Comlink (handheld); Emergency Repair Kit; Heavy Blaster Pistol; Heavy Clothing; Stimpack,E-BGA:24
+TTS20-Series Dialectic Droid,Rival,Charm 2; Cool 1; Deception 2; Core Worlds 1; Education 1; Negotiation 3; Perception 2; Streetwise 1,None,Droid; Master of Rhetoric,None,DoH:56
+Tur and Kel,Nemesis,Athletics 2; Brawl 3; Melee 3; Resilience 3; Survival 2; Vigilance 3,Durable 2; Frenzied Attack 1,Berserk Rage,Armored Clothing; Spiked Mace,MPQ:70*
+Twi'lek Black Marketeer,Rival,Underworld 2; Negotiation 2; Ranged [Light] 1; Skullduggery 2; Streetwise 2; Vigilance 2,Adversary 1; Black Market Contacts 2,None,Blaster Pistol; Shock Gloves; Thermal Detonator,E-CRB:397
+Twi'lek Dancer,Minion,Charm; Coordination,None,None,Dancing attire,E-CRB:414; CotGAD:13
+Ugnaught Laborer,Rival,Computers 1; Mechanics 2; Melee 1,None,Silhouette 0; Stubborn and Dependable,Durable clothing; Hydrospanner,JoY:14; CotGAD:6
+Ugnaught Mechanic,Minion,Athletics; Mechanics; Resilience,None,Silhouette 0; Stubborn and Dependable,Durable clothing; Giant Hydrospanner; Tool Kit; Utility Belt,F-CRB:404
+Urel Haydon,Rival,Charm 3; Deception 3; Melee 2; Perception 1; Ranged [Light] 2; Skullduggery 2; Stealth 3; Vigilance 1,Adversary 1; Stalker 2,None,Cybernetic right arm; left eye; and right leg; Encrypted Comlink; Light Blaster Pistol; Reinforced Blast Vest; Vibroknife,OaA:22
+Urtuaa Haaot,Rival,Charm 3; Cool 3; Discipline 2; Negotiation 3,Natural Negotiator,None,Light Blaster Pistol,OaA:66*
+Var Narek,Nemesis,Computers 3; Cool 1; Coordination 2; Deception 3; Warfare 2; Piloting [Planetary] 2; Ranged [Light] 2; Skullduggery 1; Stealth 3,Adversary 1; Convincing Demeanor 2,None,Blaster Pistol; Flak vest; Personal Deflector Shield; Wrist link with microtracker,OaA:69*
+Varla Prule,Rival,Charm 3; Coercion 2; Deception 3; Discipline 2; Leadership 3; Negotiation 3; Ranged [Light] 1,None,None,Fine Clothing; Jewelry; Light Blaster Pistol; Uniform,A-CRB:441*
+Venerable Hutt,Nemesis,Athletics 1; Charm 2; Coercion 3; Cool 2; Deception 3; Discipline 3; Outer Rim 2; Underworld 2; Melee 1; Negotiation 3; Ranged [Light] 1; Resilience 5,Convincing Demeanor 2; Durable 2; Nobody's Fool 2,Awkward; Ponderous,None,LoNH:47
+Venlana Sipal,Nemesis,Charm 3; Coercion 3; Deception 3; Underworld 2; Melee 2; Negotiation 3; Ranged [Light] 2; Streetwise 3,Adversary 2; Point Blank 2,None,Conservative Clothing; Holdout Blaster; Stimpack; Vibroknife,MPQ:17*
+Verd Ramos,Rival,Cool 4; Coordination 3; Discipline 4; Melee 4; Negotiation 2; Perception 2; Stealth 2,None,None,Comlink (handheld); Datapad,SoF:141
+Viewpointe Residential Tower Security,Rival,Athletics 1; Coercion 2; Discipline 1; Brawl 2,None,None,Security Uniform; Shock Gloves,RaGP:20
+Viper Probe Droid,Rival,Cool 1; Perception 2; Ranged [Light] 2; Survival 2; Vigilance 2,None,Droid; Hoverer; Self-destruct Mechanism,Built-in blaster pistol; Life Form Scanner; long-range holonet communicator; Long-range Sensor Array,F-CRB:410; HD:10
+Voralla Morbo,Rival,Charm 3; Deception 2; Perception 2,Kill with Kindness 1,None,100 credits; Morbo's Place cantina,SoR:55
+Vordan Enforcer,Rival,Athletics 1; Melee 1; Perception 1; Ranged [Heavy] 2; Survival 1; Vigilance 1,None,Loyalty,Vodran Hunting Rifle,LoNH:85
+Vorn Tel-Ovis,Rival,Discipline 1; Knowledge 1; Mechanics 1; Negotiation 1; Vigilance 1,None,None,Emergency Repair Kit; Heavy Clothing; Holdout Blaster; Stimpack,E-BGA:14
+Vorse Tabarith,Nemesis,Brawl 3; Charm 1; Coercion 3; Deception 3; Discipline 1; Underworld 3; Leadership 1; Melee 2; Negotiation 2; Ranged [Heavy] 2; Ranged [Light] 2; Skullduggery 2; Streetwise 3; Vigilance 2,Adversary 1; Nobody's Fool 1; Plausible Deniability 1; Street Smarts 2,None,Heavy Blaster Pistol; Heavy Clothing,JoY:63*
+Vossport City Guard,Minion,Brawl; Melee; Vigilance,None,None,Shield; Steel Breastplate; Voss Warspear,NoP:35
+VX-19,Rival,Computers 3; Xenology 3; Mechanics 2; Vigilance 2,Technical Aptitude 3,Droid,Built-in blaster pistol,OaA:67*
+Warg,Nemesis,Athletics 2; Brawl 3; Melee 3; Resilience 3; Survival 2; Vigilance 3,Durable 2; Frenzied Attack 1,Berserk Rage,Laminate Armor; Massive vibro-ax,MPQ:89*
+Wealthy Noble,Rival,Charm 3; Cool 1; Deception 3; Education 2; Melee 2,None,None,Holdout Blaster; Vibrosword,A-CRB:430; E-CRB:409; CotGAD:12
+WED Treadwell Repair Droid,Rival,Computers 1; Mechanics 2,None,Droid,Auxiliary Mechanics Equipment,BtR:26
+Wheel Security,Minion,Brawl; Coercion; Melee; Ranged [Light]; Vigilance,None,None,Blaster Pistol; Comlink (handheld); Datapad; Riot Armor; Truncheon,BtR:34
+Wheel Security Pilots,Rival,Gunnery 1; Piloting [Space] 2,None,None,Flight Suit,BtR:34
+Wing Guard Officer,Minion,Coercion; Discipline; Leadership; Melee; Piloting [Planetary]; Ranged [Light]; Vigilance,None,Covering Fire,magnacuffs; Relby-K23 blaster pistol; Stun Club; Wing Guard Uniform,JoY:12
+Wing Guard Sergeant,Rival,Coercion 1; Discipline 1; Leadership 2; Melee 2; Piloting [Planetary] 2; Ranged [Light] 2; Vigilance 2,None,Tactical Direction,Comlink (handheld); Extra Reload; Relby-K23 blaster pistol; Stun Club; Wing Guard Uniform,JoY:13
+Wingrider,Rival,Athletics 2; Cool 2; Coordination 3; Melee 3; Perception 3; Ranged [Heavy] 3; Survival 3; Vigilance 2,Let's Ride; Feral Strength 2,None,Drall Flashstick; Light Blaster Carbine,SoF:29
+Wookie Gladiator,Rival,Athletics 2; Brawl 4; Coordination 2; Melee 4; Ranged [Heavy] 2; Vigilance 2,Adversary 1,Wookie Rage,Vibro-ax,E-CRB:414
+Wounded Mantellian Savrip,Rival,Athletics 2; Brawl 3; Discipline 2; Melee 2; Perception 2; Resilience 3; Vigilance 2,None,Poisonous Bite,Large Club,MPQ:61
+Yacht Crew,Minion,Gunnery; Piloting [Space],None,None,Heavy Blaster Pistol; Mechanics' coveralls,JoY:91
+Yarkora Treasure Hunter,Rival,Charm 2; Coercion 4; Cool 2; Deception 4; Lore 2,None,None,Heavy Blaster Pistol,E-CRB:414
+Yav Yiyar,Rival,Cool 1; Deception 2; Melee 2; Piloting [Space] 3; Ranged [Light] 3; Stealth 2; Streetwise 2; Vigilance 2,Adversary 2,None,Armored Clothing; Comlink (handheld); Heavy Blaster Pistol; Vibroknife,BtR:29
+Yiyar Clan Members,Minion,Athletics; Discipline; Melee; Piloting [Planetary]; Ranged [Light]; Stealth,None,None,Blaster Pistol; Comlink (handheld); Padded Armor; Vibroknife,BtR:29
+Yiyar Salvage Tech,Minion,Brawl; Coercion; Mechanics; Melee; Ranged [Light],None,None,Comlink (handheld); Heavy Blaster Pistol; Padded Armor,BtR:87
+Ysanna Hunter,Rival,Discipline 1; Ranged [Heavy] 2; Survival 3; Vigilance 2,Animal Empathy; Force Rating 1,Projectile Guidance,Beast-Hide Warrior's Armor; Concussion bow; Travel Rations,NoP:67
+Zeke,Nemesis,Athletics 2; Discipline 3; Leadership 4; Mechanics 2; Ranged [Heavy] 3; Ranged [Light] 2; Resilience 3; Survival 2; Vigilance 3,Adversary 1; Point Blank 1,Squad Leader; Teamwork,Blaster Pistol; Frag Grenade; Utility Belt; Vibroknife; Worn Clone Trooper Armor,MPQ:29*
+Zel N'got,Rival,Computers 2; Cool 1; Discipline 1; Mechanics 2; Perception 1; Ranged [Light] 1; Skullduggery 1; Stealth 1,None,None,Holdout Blaster; Stun Grenade,CotG:64
+Zerala Dinn,Rival,Athletics 2; Brawl 2; Charm 3; Cool 3; Coordination 2; Deception 4; Lore 3; Perception 2; Ranged [Light] 3; Skullduggery 3; Streetwise 3; Vigilance 2,Adversary 1; Force Rating 1; Nobody's Fool 2; Smooth Talker 2,Force Power Influence,Armored Clothing; Blaster Pistol; Comlink (handheld); Datapad; Refined Cortosis Gauntlets,NoP:138
+Zirkonn's ISB Strike Team,Minion,Cool; Discipline; Perception; Ranged [Light]; Vigilance,None,None,Blaster Pistol; Frag Grenade; Padded Armor,NoP:139

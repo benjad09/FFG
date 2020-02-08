@@ -4,6 +4,7 @@ from Tkinter import *
 import random
 from random import randint
 import os
+
 global r
 
 class MainWindow:

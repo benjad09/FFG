@@ -5,6 +5,7 @@ import random
 from random import randint
 from PIL import Image, ImageTk
 import os
+import json
 global r
 
 class MainWindow:
@@ -35,41 +36,57 @@ class MainWindow:
 		#self.canvas.place(relx=.25,rely=0)
 		self.canvas.place(relx=.2,rely=0,relwidth=.8,relheight = 1)
 
-		self.ceateroom()
+		self.loadcsv()
+		self.drawroom()
+		#self.drawassets()
+
+		self.loadandsave = tk.Frame(self.master)
+		self.save = tk.Button(self.loadandsave,text = "save",command = self.saveROOM)
+		self.save.place(relx = 0,rely = 0,relheight = .5,relwidth = .5)
+		self.entries = tk.Entry(self.loadandsave)
+		self.entries.place(relx = .5,rely = 0,relheight = .5,relwidth = .5)
+		self.variable = tk.StringVar(self.master)
+		self.savefiles = get_saves()
+		self.options = tk.OptionMenu(self.loadandsave, self.variable, *self.savefiles)
+		self.loading = tk.Button(self.loadandsave,text = "Load",command = self.loadROOM)
+		self.options.place(relx = 0,rely = .5,relheight = .5,relwidth = .5)
+		self.loading.place(relx = .5,rely = .5,relheight = .5,relwidth = .5)
+		self.loadandsave.place(relx = 0,rely = 0,relwidth = .2,relheight = .1)
+
+		# self.placeasset(50,10,270,"barfront")
+		# self.placeasset(50,50,0,"barleft")
+		
+		# self.placeasset(90,50,0,"barfront")
+		# self.placeasset(130,50,0,"barright")
+		# self.placeasset(130,10,90,"barfront")
+
+	def drawroom(self):
+		self.canvas.delete("all")
+		self.drawassets()
+		self.drawwalls()
+
+	def drawassets(self):
+		for i in range(0,self.room["ysize"]):
+			for j in range(0,self.room["xsize"]):
+				if self.room["space"][i][j] != 0:
+					split = self.room["space"][i][j].split("#")
+					split[1] = int(split[1])
+					print(split)
+					self.placeasset(j*self.assetsize+self.offset,i*self.assetsize+self.offset,split[1],split[0])
 
 
 
-		load = Image.open("./Assets/barfront.png")
+
+
+	def placeasset(self,x,y,r,asset):
+		load = Image.open("./Assets/"+asset+".png")
+			
+		load = load.rotate(r)
 		render = ImageTk.PhotoImage(load)
 		img = Label(self.master,image = render)
 		img.image = render
-
-
-		self.canvas.create_image(50,50,anchor=NW,image=render)
-		#self.canvas.create_image(10,50,anchor=NW,image=render)
-		# load2 = Image.open("./Assets/barfront.png")
-		# load2 = load2.rotate(90)
-		# render2 = ImageTk.PhotoImage(load2)
-		load = Image.open("./Assets/barfront.png")
 		
-		load = load.rotate(270)
-		render = ImageTk.PhotoImage(load)
-		img = Label(self.master,image = render)
-		img.image = render
-		
-		self.canvas.create_image(10,10,anchor=NW,image=render)
-
-
-		load = Image.open("./Assets/barleft.png")
-		render = ImageTk.PhotoImage(load)
-		img = Label(self.master,image = render)
-		img.image = render
-		
-		#self.canvas.create_image(90,50,anchor=NW,image=render)
-		self.canvas.create_image(10,50,anchor=NW,image=render)
-
-
-
+		self.canvas.create_image(x,y,anchor=NW,image=render)
 
 
 
@@ -87,6 +104,31 @@ class MainWindow:
 		self.x.createspaces()
 		self.room = self.x.returnroom()
 		self.drawwalls()
+
+	def loadcsv(self):
+		self.room = {}
+		pullData = open("Cantena.csv",'r').read()
+		self.room["space"] = pullData.split('\n')
+		for i in range(0,len(self.room["space"])):
+			self.room["space"][i] = self.room["space"][i].split(',')
+		
+		self.room["space"].pop(-1)
+		self.room["space"][0][0] = "0"
+		self.room["vertwall"] = [[],[]]
+		for i in range(0,len(self.room["space"][0])):
+			self.room["vertwall"][0].append('w')
+			self.room["vertwall"][1].append('w')
+		self.room["xsize"] = len(self.room["space"][0])
+		self.room["hotzwall"] = []
+		for i in range(0,len(self.room["space"])):
+			self.room["hotzwall"].append(['w','w'])	
+		self.room["ysize"] = len(self.room["space"])
+		
+		for i in range(0,self.room["ysize"]):
+			for j in range(0,self.room["xsize"]):
+				if self.room["space"][i][j] == "0":
+					self.room["space"][i][j] = 0
+
 
 
 	def drawwalls(self):
@@ -160,6 +202,57 @@ class MainWindow:
 				enf  =  1
 				place = 0
 			self.canvas.create_line(self.offset+(i)*self.assetsize,self.offset+self.room["ysize"]*self.assetsize,self.offset+(i+1)*self.assetsize,self.offset+self.room["ysize"]*self.assetsize,fill=colorr,width=enf)
+
+	def saveROOM(self):
+		name = self.entries.get()
+		File = ""
+		Dir = "./rooms"
+		Files = os.listdir(Dir)
+		if name+".room" in Files:
+			open(Dir+"/"+name+".room",'w').close()
+		File = open(Dir+"/"+name+".room", 'a+')
+
+		x = json.dumps(self.room)
+		
+		File.write(x)
+		File.close()
+		self.savefiles = get_saves()
+		self.options.place_forget()
+		self.options = tk.OptionMenu(self.loadandsave, self.variable, *self.savefiles)
+		self.options.place(relx = 0,rely = .5,relheight = .5,relwidth = .5)
+
+	def loadROOM(self):
+		name = self.variable.get()
+		File = ""
+		Dir = "./rooms"
+		Files = os.listdir(Dir)
+		
+
+		if name+".room" in Files:
+			oldjs = open(Dir+"/"+name+".room", 'r').read()
+			self.room = json.loads(oldjs)
+		
+		self.drawroom()
+
+
+
+
+
+
+
+
+
+
+
+def get_saves():
+	File = ""
+	Dir = "./rooms"
+	Files = os.listdir(Dir)
+	filelist = []
+	for i in Files:
+		filelist.append(i.split(".",1)[0])
+		#print(filelist[-1])
+	return(filelist)
 
 
 def close_window():
