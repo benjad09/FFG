@@ -262,7 +262,7 @@ class MainWindow:
 
 def get_saves():
 	File = ""
-	Dir = "./rooms"
+	Dir = "./NPC"
 	Files = os.listdir(Dir)
 	filelist = []
 	for i in Files:
