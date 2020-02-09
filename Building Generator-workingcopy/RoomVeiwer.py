@@ -36,8 +36,8 @@ class MainWindow:
 		#self.canvas.place(relx=.25,rely=0)
 		self.canvas.place(relx=.2,rely=0,relwidth=.8,relheight = 1)
 
-		self.loadcsv()
-		self.drawroom()
+		#self.loadcsv()
+		#self.drawroom()
 		#self.drawassets()
 
 		self.loadandsave = tk.Frame(self.master)
@@ -172,7 +172,7 @@ class MainWindow:
 
 	def loadcsv(self):
 		self.room = {}
-		pullData = open("Cantena.csv",'r').read()
+		pullData = open("storage.csv",'r').read()
 		self.room["space"] = pullData.split('\n')
 		for i in range(0,len(self.room["space"])):
 			self.room["space"][i] = self.room["space"][i].split(',')
